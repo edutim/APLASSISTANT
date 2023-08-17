@@ -1,14 +1,15 @@
 {
-  "id" : "541C91BF-05EE-4291-A00D-C8B3AC0FDA5D",
+  "id" : "5D75EB87-C240-4F89-8E23-5403F2C11300",
   "categories" : [
     {
       "symbolName" : "star",
-      "id" : "99E5CF35-A569-4D25-9232-236F16DFBBA2",
+      "id" : "BD4468CB-5015-4B90-BB29-838CF23BCF41",
       "items" : [
         {
-          "id" : "50AB092E-F32E-455F-B071-915576A2AB62",
+          "id" : "3C3CFF63-ABCC-44E2-93EC-3BE4EDE65A64",
           "itemURL" : "https://apple.box.com/s/kauks190wacbdsxlhtlp4bxf4gexbvz0",
           "title" : "SF Hello",
+          "itemDescription" : "Say hello to SF Hello — our font for use on any Apple Professional Learning communication\r",
           "searchTerms" : [
             "sf",
             "font",
@@ -19,9 +20,10 @@
           "passwordProtected" : false
         },
         {
-          "id" : "64DC3A10-9ADD-47D7-8146-82D97B3A0BF7",
+          "id" : "40DB7A69-2031-4520-981F-C8FBBE8D895C",
           "itemURL" : "https://www.icloud.com/shortcuts/2e96fa7647024da6910f5607b3fe656e",
           "title" : "Accessibility Assistant - iPad ",
+          "itemDescription" : "\r",
           "searchTerms" : [
             "accessibility",
             "iPad"
@@ -31,9 +33,10 @@
           "passwordProtected" : false
         },
         {
-          "id" : "B69EAB94-8CDC-4139-A49A-6F2053AB5750",
+          "id" : "E6B03B9A-4546-474F-A0E5-D7A0A8655DD2",
           "itemURL" : "https://www.icloud.com/shortcuts/77e1f658e54a4ee18ff6df792274603a",
           "title" : "Accessibility Assistant - Mac ",
+          "itemDescription" : "\r",
           "searchTerms" : [
             "accessibility",
             "mac"
@@ -43,44 +46,35 @@
           "passwordProtected" : false
         },
         {
-          "id" : "951875F3-C2B0-40F8-BF7D-702B381B8A50",
+          "id" : "9C24EB4F-F6AC-4454-8445-BF6FB7DA054B",
           "itemURL" : "https://seedsales-corp.apple.com/home/discover",
           "title" : "SEED",
+          "itemDescription" : "\r",
           "searchTerms" : [
             "seed"
           ],
           "imageName" : "seed",
-          "buttonTitle" : "Get",
+          "buttonTitle" : "Visit",
           "passwordProtected" : false
         },
         {
-          "id" : "24F449F4-97B3-4670-A001-0EDCB0B67F76",
-          "itemURL" : "",
-          "title" : "APL Labs",
-          "searchTerms" : [
-            "apl",
-            ""
-          ],
-          "imageName" : "aplLabs",
-          "buttonTitle" : "Get",
-          "passwordProtected" : true
-        },
-        {
-          "id" : "2D87A739-A1E4-4DC4-AC4E-4AF18CD94B52",
+          "id" : "AE1D8288-C782-48BD-9238-5E4872248415",
           "itemURL" : "",
           "title" : "WWAPL Summit",
+          "itemDescription" : "\r",
           "searchTerms" : [
             "wwapl",
             "summit"
           ],
           "imageName" : "wwaplSummit",
-          "buttonTitle" : "Get",
-          "passwordProtected" : true
+          "buttonTitle" : "Coming Soon",
+          "passwordProtected" : false
         },
         {
-          "id" : "135880FF-4B7B-410D-9203-FE88E827A795",
+          "id" : "B5F8BED7-8CC0-485F-A7B0-D83B0B63B8C9",
           "itemURL" : "https://apple.box.com/s/krsebhy7u4podmd20ucwdoxvbpctjmwb",
           "title" : "Growth Progress Snapshot ",
+          "itemDescription" : "\r",
           "searchTerms" : [
             "growth",
             "progress",
@@ -95,12 +89,13 @@
     },
     {
       "symbolName" : "paintbrush",
-      "id" : "45066C70-7F05-437E-8783-A7C7D6782782",
+      "id" : "698DACA3-9142-4F9B-A750-18E3AE8F7296",
       "items" : [
         {
-          "id" : "10B81F88-68AC-4592-A4C8-BF83DA126BCC",
+          "id" : "1C33C182-3CAF-4D7A-879E-26505EA43B2D",
           "itemURL" : "https://apple.box.com/s/43whc3cqsl9b6fo652oarruta4yywz6g",
           "title" : "Session Planner",
+          "itemDescription" : "\r",
           "searchTerms" : [
             "numbers",
             "session",
@@ -115,12 +110,13 @@
     },
     {
       "symbolName" : "bubble.left",
-      "id" : "FA6D2CD5-5CC5-4EF6-B1E7-545D65B80595",
+      "id" : "F3C68598-6D39-474D-A8C2-EAFC30038D06",
       "items" : [
         {
-          "id" : "7C69108D-5F71-4377-8356-52DEA5E7FB4D",
+          "id" : "33F88C0E-CBC7-4E8E-AE2C-2DC2D7471F46",
           "itemURL" : "https://apple.box.com/s/vdgmzawjmyg1n7k0yrghpy38auh8f3kf",
           "title" : "Agenda Template",
+          "itemDescription" : "\r",
           "searchTerms" : [
             "pages",
             "agenda",
@@ -132,9 +128,10 @@
           "passwordProtected" : false
         },
         {
-          "id" : "7FEA53FD-9C25-4F47-BEAD-013570ECC464",
+          "id" : "871DC12B-9979-4FAE-9ED3-AC0B65CE9926",
           "itemURL" : "https://apple.box.com/s/nz4ja43q7p2hz9wxt9ten54iza7k796c",
           "title" : "Roster Template",
+          "itemDescription" : "\r",
           "searchTerms" : [
             "numbers",
             "roster",
@@ -145,9 +142,10 @@
           "passwordProtected" : false
         },
         {
-          "id" : "13AF25CA-D9A4-4850-B63D-D73BA79C9585",
+          "id" : "0E0A6340-D27D-48B3-B744-2A3A21F6EA34",
           "itemURL" : "https://apple.box.com/s/cky5g6cl0x421ljgzec0s5q9fi7mwuhv",
           "title" : "Brief Template",
+          "itemDescription" : "\r",
           "searchTerms" : [
             "pages",
             "brief",
@@ -158,9 +156,10 @@
           "passwordProtected" : false
         },
         {
-          "id" : "ADEB95F0-7DDE-4CC4-A153-4281E9799791",
+          "id" : "38DA2A86-9E72-4E3D-B707-476C9AD997F0",
           "itemURL" : "https://apple.box.com/s/nn4rhltsi0p0wukh67zlphcdmm0qr25e",
           "title" : "Focus Plan",
+          "itemDescription" : "\r",
           "searchTerms" : [
             "focus",
             "pages"
@@ -170,9 +169,10 @@
           "passwordProtected" : false
         },
         {
-          "id" : "874BE305-A5ED-4775-AE09-CCFCB6BF4A58",
+          "id" : "959847F5-3F2F-4030-939A-1B9D60652609",
           "itemURL" : "https://apple.box.com/s/c2pa4y9io2orrzj8pf71538kj69ukvcj",
           "title" : "Planner",
+          "itemDescription" : "\r",
           "searchTerms" : [
             "planner",
             "numbers"
@@ -182,9 +182,10 @@
           "passwordProtected" : false
         },
         {
-          "id" : "BC105E9D-4B08-4870-BACC-237EBA0750BF",
+          "id" : "A332365C-F1CF-4B96-A155-4B6D041E541D",
           "itemURL" : "https://apple.box.com/s/kauks190wacbdsxlhtlp4bxf4gexbvz0",
           "title" : "SF Hello",
+          "itemDescription" : "\r",
           "searchTerms" : [
             "font",
             "sf"
@@ -194,9 +195,10 @@
           "passwordProtected" : false
         },
         {
-          "id" : "2252FCD2-A9D7-4338-9A26-20E8E087440F",
+          "id" : "E5C2AEED-B57F-4BD6-AC33-C1138AEE5696",
           "itemURL" : "https://apple.box.com/s/vmgfrwdy1jqk1o9jhuyxpca8et2w6vxe",
           "title" : "Flyers",
+          "itemDescription" : "\r",
           "searchTerms" : [
             "flyer",
             "pdf"
@@ -210,12 +212,13 @@
     },
     {
       "symbolName" : "person.circle",
-      "id" : "988780BF-2AB4-4F71-AB8C-FFCC649534A3",
+      "id" : "7DF924F1-C318-401A-9F51-6A74378A2592",
       "items" : [
         {
-          "id" : "B12CD264-54A9-4698-9856-CD1A6D801BFA",
+          "id" : "8B148CD2-22CC-4214-AB14-D6C4F5F4390D",
           "itemURL" : "https://apple.box.com/s/25neszogy981i6zh3aepzrpjs0ixiapx",
           "title" : "APL Compass",
+          "itemDescription" : "\r",
           "searchTerms" : [
             "numbers",
             "compass",
@@ -226,9 +229,10 @@
           "passwordProtected" : false
         },
         {
-          "id" : "4C6D8BFC-1C72-4D30-8D88-72F0B8AE67FC",
+          "id" : "B8C5CB72-2EDF-487A-BE1C-430911BAE4A2",
           "itemURL" : "https://apple.box.com/s/a71bnbuqsetl41cna4v87v0yckzey9f0",
           "title" : "ELC Specialist Toolkit",
+          "itemDescription" : "\r",
           "searchTerms" : [
             "numbers",
             "elc",
@@ -236,12 +240,13 @@
           ],
           "imageName" : "numbersTemplateIcon",
           "buttonTitle" : "Get",
-          "passwordProtected" : true
+          "passwordProtected" : false
         },
         {
-          "id" : "B2CF04CB-E8BA-4D23-8D9F-9061CD4549E5",
+          "id" : "47DBD65A-CD60-4401-808C-52AB0326134A",
           "itemURL" : "https://apple.box.com/s/e9ilk4m8nh0yoz220gms6zrmhrh0k5jf",
           "title" : "Leadership Coaching Journal",
+          "itemDescription" : "\r",
           "searchTerms" : [
             "pages",
             "leadership",
@@ -249,12 +254,13 @@
           ],
           "imageName" : "pagesTemplateIcon",
           "buttonTitle" : "Get",
-          "passwordProtected" : true
+          "passwordProtected" : false
         },
         {
-          "id" : "B49B6C4D-3A30-46BB-AC78-EC5D45FBEA89",
+          "id" : "58199EEC-BA1B-4894-BF29-D3C6CFD5F76C",
           "itemURL" : "https://apple.box.com/s/gnwl3o36guzapdku2m64bm41lqa4hfos",
           "title" : "DLT Activity Guide - iPad",
+          "itemDescription" : "\r",
           "searchTerms" : [
             "numbers",
             "dlt",
@@ -263,12 +269,13 @@
           ],
           "imageName" : "numbersTemplateIcon",
           "buttonTitle" : "Get",
-          "passwordProtected" : true
+          "passwordProtected" : false
         },
         {
-          "id" : "9661235A-B940-4C5B-8DF6-C33B0DAE7729",
+          "id" : "5636DC4F-A1A0-4F81-A2E0-469FD50C3789",
           "itemURL" : "https://apple.box.com/s/gnwl3o36guzapdku2m64bm41lqa4hfos",
           "title" : "DLT Activity Guide - Mac",
+          "itemDescription" : "\r",
           "searchTerms" : [
             "numbers",
             "dlt",
@@ -277,12 +284,13 @@
           ],
           "imageName" : "numbersTemplateIcon",
           "buttonTitle" : "Get",
-          "passwordProtected" : true
+          "passwordProtected" : false
         },
         {
-          "id" : "7639444E-0717-4DCC-B675-73AFABE96B1C",
+          "id" : "B2EE6C55-8130-42F3-AE4B-E544B79C11A2",
           "itemURL" : "https://apple.box.com/s/7qwod7rk05elz4txihpdyozyzvhwv5zd",
           "title" : "Tech Integration Checklist - iPad",
+          "itemDescription" : "\r",
           "searchTerms" : [
             "numbers",
             "integration",
@@ -291,12 +299,13 @@
           ],
           "imageName" : "numbersTemplateIcon",
           "buttonTitle" : "Get",
-          "passwordProtected" : true
+          "passwordProtected" : false
         },
         {
-          "id" : "48D33A84-2502-4626-8E4D-2A1D2A7A3CB5",
+          "id" : "810E49A6-B41B-4270-AED7-FA4B9696B0FF",
           "itemURL" : "https://apple.box.com/s/7qwod7rk05elz4txihpdyozyzvhwv5zd",
           "title" : "Tech Integration Checklist - Mac",
+          "itemDescription" : "\r",
           "searchTerms" : [
             "numbers",
             "integration",
@@ -305,19 +314,20 @@
           ],
           "imageName" : "numbersTemplateIcon",
           "buttonTitle" : "Get",
-          "passwordProtected" : true
+          "passwordProtected" : false
         }
       ],
       "name" : "Coach"
     },
     {
       "symbolName" : "hands.sparkles",
-      "id" : "83953197-BAD2-495E-BA40-528DBFE2F25C",
+      "id" : "EA73C337-FBFC-479A-B537-B449A7E32DBD",
       "items" : [
         {
-          "id" : "F16A3AAA-F5E9-4D6B-8A9E-009959033156",
+          "id" : "B4894A77-1A2B-4C99-8F08-DE7F478597BE",
           "itemURL" : "https://apple.box.com/s/h8s5eq6z418avtwevqkw3dctoub3ubgm",
           "title" : "APLKit",
+          "itemDescription" : "\r",
           "searchTerms" : [
             "apl",
             "kit"
@@ -327,24 +337,10 @@
           "passwordProtected" : false
         },
         {
-          "id" : "CA649508-FC2A-426D-BD93-E9384F9DC602",
-          "itemURL" : "https://apple.box.com/s/q7wi0k7aoi7jpwzvngjdoujvcq9lezq6",
-          "title" : "APL Live Theme",
-          "searchTerms" : [
-            "keynote",
-            "live",
-            "apl",
-            "theme",
-            "template"
-          ],
-          "imageName" : "keynoteTemplateIcon",
-          "buttonTitle" : "Get",
-          "passwordProtected" : false
-        },
-        {
-          "id" : "D9F7BD49-E2C6-4E63-BE27-9EBFDD955F7A",
+          "id" : "7F55C905-4D6B-4DBE-BCDF-8A4B27A59D51",
           "itemURL" : "https://apple.box.com/s/d14e4ggmtg2xafmyvslp9qffeu7oi1vi",
           "title" : "APLS Theme",
+          "itemDescription" : "\r",
           "searchTerms" : [
             "keynote",
             "template",
@@ -355,9 +351,10 @@
           "passwordProtected" : false
         },
         {
-          "id" : "2815A321-146D-4493-9ABB-DFA5A77CABB4",
+          "id" : "DC7F6DEC-38FF-4CDC-A838-F182AB054927",
           "itemURL" : "https://apple.box.com/s/p5y9wdc4gz33c1urcjlqoy86etzefkuk",
           "title" : "APLS Theme - Guidelines",
+          "itemDescription" : "\r",
           "searchTerms" : [
             "keynote",
             "template",
@@ -373,56 +370,47 @@
     },
     {
       "symbolName" : "network",
-      "id" : "BFCEBF0E-7740-4F3B-B04F-AD4EF028FE50",
+      "id" : "E5DE6AB8-E1A5-46EB-8898-A5DEEF3F9BF6",
       "items" : [
         {
-          "id" : "E1028A40-9518-41C6-9F34-8B5C29DF78E7",
+          "id" : "B9E32FFA-C797-4C91-812D-76D65E410E8D",
           "itemURL" : "https://education-corp.apple.com/en/community/apple-groups/apl-internal",
           "title" : "Education Community",
+          "itemDescription" : "\r",
           "searchTerms" : [
             "education",
             "community"
           ],
           "imageName" : "safariIcon",
-          "buttonTitle" : "Get",
+          "buttonTitle" : "Visit",
           "passwordProtected" : false
         },
         {
-          "id" : "39BC4085-226D-4042-9AD9-7EF0F903C174",
-          "itemURL" : "",
-          "title" : "Meet With",
-          "searchTerms" : [
-            "meet",
-            "miro"
-          ],
-          "imageName" : "miro",
-          "buttonTitle" : "Get",
-          "passwordProtected" : true
-        },
-        {
-          "id" : "434149D1-F29F-4ED2-B58C-E19CD17463A5",
+          "id" : "8FE668A7-5F03-489B-83CA-1BF3DC6497A2",
           "itemURL" : "",
           "title" : "APL Connect",
+          "itemDescription" : "\r",
           "searchTerms" : [
             "apl",
             "connect",
             "keynote"
           ],
-          "imageName" : "keynoteTemplateIcon",
-          "buttonTitle" : "Get",
-          "passwordProtected" : true
+          "imageName" : "aplLabs",
+          "buttonTitle" : "Coming Soon",
+          "passwordProtected" : false
         }
       ],
       "name" : "Connect"
     },
     {
       "symbolName" : "leaf",
-      "id" : "A3ADBD29-D381-4E9B-9C3A-032629FDD3B9",
+      "id" : "DAD0E0ED-5790-46E8-BD74-361F0BA5CA35",
       "items" : [
         {
-          "id" : "0783EE37-C3C8-4871-B230-83A8DD2046F8",
+          "id" : "C4115073-5889-422F-B9FE-FF65BAD4E381",
           "itemURL" : "Coming Soon",
           "title" : "Experience Journal",
+          "itemDescription" : "\r",
           "searchTerms" : [
             "pages",
             "template",
@@ -434,9 +422,10 @@
           "passwordProtected" : false
         },
         {
-          "id" : "4859FD61-ED84-4011-B62F-CCCEA6FFF434",
+          "id" : "754F7165-5067-45DA-8317-B7D0F6E84FFF",
           "itemURL" : "https://www.icloud.com/shortcuts/2e96fa7647024da6910f5607b3fe656e",
           "title" : "Accessibility Assistant - iPad ",
+          "itemDescription" : "\r",
           "searchTerms" : [
             "accessibility",
             "iPad"
@@ -446,9 +435,10 @@
           "passwordProtected" : false
         },
         {
-          "id" : "110C5A0F-9BE8-4A99-B4FF-DE0D6C5E68C2",
+          "id" : "3AE155BA-B0D0-464D-A64C-262443F98241",
           "itemURL" : "https://www.icloud.com/shortcuts/77e1f658e54a4ee18ff6df792274603a",
           "title" : "Accessibility Assistant - Mac ",
+          "itemDescription" : "",
           "searchTerms" : [
             "accessibility",
             "mac"
@@ -462,12 +452,13 @@
     },
     {
       "symbolName" : "hand.point.up.left",
-      "id" : "1698A8D4-6943-4AA2-A430-E8CA7608CD19",
+      "id" : "C44A3837-EC9B-4C7D-877F-7DCEE1D184FC",
       "items" : [
         {
-          "id" : "C098A35B-FED4-4083-9B07-042E8B074C6B",
+          "id" : "63997396-A181-44B3-B78C-942F9E85B9A4",
           "itemURL" : "https://www.apple.com",
           "title" : "Test",
+          "itemDescription" : "",
           "searchTerms" : [
             "utilities"
           ],
