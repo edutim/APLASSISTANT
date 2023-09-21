@@ -1,12 +1,12 @@
 {
-  "id" : "FFAA2555-2C49-4467-81D3-7CEA02A0327B",
+  "id" : "C54F684D-0F9A-4804-A7A3-D01905E901A3",
   "categories" : [
     {
       "symbolName" : "star",
-      "id" : "27BA025C-A1F2-42B4-9889-2A1EE24DDD5E",
+      "id" : "AF630173-2612-4DEB-870F-2D5296185662",
       "items" : [
         {
-          "id" : "DEFFBFE7-E37A-44AB-96E7-6352E81B4927",
+          "id" : "E00F0FE0-833D-461B-A8DA-B6E4D8749657",
           "itemURL" : "https://apple.box.com/s/kauks190wacbdsxlhtlp4bxf4gexbvz0",
           "title" : "SF Hello",
           "itemDescription" : "Say hello to SF Hello—our font developed by Apple for use in Apple Professional Learning communications.\n\nRegional versions that support Arabic, Chinese, Japanese, Korean, and Thai are also available, along with SF Mono, the Apple font used for code.\r",
@@ -20,7 +20,7 @@
           "passwordProtected" : false
         },
         {
-          "id" : "57F00002-8C28-4CC3-B32B-CED611279F74",
+          "id" : "5825F929-9BF9-4309-80C8-DC07D6F65799",
           "itemURL" : "https://www.icloud.com/shortcuts/2e96fa7647024da6910f5607b3fe656e",
           "title" : "Accessibility Assistant - iPad ",
           "itemDescription" : "The Accessibility Assistant shortcut creates a summary of accessibility features and resources by asking questions about a person's needs. This is a Web Clip that will open in Safari and prompt for installation into the Shortcuts application.\n\nOnce added, select the needs of the user and choose as many as needed. This creates a note populated with Apple Support page links and resources, on suggested built-in accessibility features.\r",
@@ -33,7 +33,7 @@
           "passwordProtected" : false
         },
         {
-          "id" : "87F532FA-B29B-41F8-A0BE-458140739EBE",
+          "id" : "18AAE328-530A-479A-BE8B-1D792CC62D5D",
           "itemURL" : "https://www.icloud.com/shortcuts/77e1f658e54a4ee18ff6df792274603a",
           "title" : "Accessibility Assistant - Mac ",
           "itemDescription" : "The Accessibility Assistant shortcut creates a summary of accessibility features and resources by asking questions about a person's needs. This is a Web Clip that will open in Safari and prompt for installation into the Shortcuts application.\n\nOnce added, select the needs of the user and choose as many as needed. This creates a note populated with Apple Support page links and resources, on suggested built-in accessibility features.\r",
@@ -46,7 +46,7 @@
           "passwordProtected" : false
         },
         {
-          "id" : "C6FA0935-56D0-4772-A162-5F435549D5B0",
+          "id" : "BF0DB68A-BA81-4BE2-A9A1-5935A88A2428",
           "itemURL" : "https://seedsales-corp.apple.com/home/discover",
           "title" : "SEED",
           "itemDescription" : "Explore the latest news and resources for your growth as an Apple Professional Learning Specialist. The Apple SEED app helps you get ready for any learning experience with news, tips, games, and other training resources—where and when you need them.\r",
@@ -58,7 +58,7 @@
           "passwordProtected" : false
         },
         {
-          "id" : "A7EBEC49-03FF-421A-9311-3389179BACF0",
+          "id" : "D2F8FB8D-6113-4069-9ED5-EAC93A966090",
           "itemURL" : "",
           "title" : "WWAPL Summit",
           "itemDescription" : "WWAPL Summit is Apple Professional Learning's annual Worldwide Specialist Conference where Specialists can attend sessions and meet with Apple Professional Learning leadership.\r",
@@ -71,7 +71,7 @@
           "passwordProtected" : true
         },
         {
-          "id" : "F366D08A-65C7-49B6-84CD-EF978D3A6F29",
+          "id" : "9F84C598-A49B-435A-A49C-BC3A478FCF66",
           "itemURL" : "https://apple.box.com/s/krsebhy7u4podmd20ucwdoxvbpctjmwb",
           "title" : "Growth Progress Snapshot ",
           "itemDescription" : "Growth and Progress Snapshot (GPS) is a learning tool designed to help identify what great behaviors look and sound like related to a specific topic.\n\nUse it to assess your current knowledge, skills, and behaviors around a topic to create high-quality Apple Professional Learning experiences.\r",
@@ -89,10 +89,10 @@
     },
     {
       "symbolName" : "paintbrush",
-      "id" : "BDAAD374-B46C-41F6-B493-F656CEBFB496",
+      "id" : "FAB19DD0-4317-4DAC-B401-0543F5CAC84B",
       "items" : [
         {
-          "id" : "07A6282D-5506-495C-A8F4-6E321D8A1DD3",
+          "id" : "935218BD-5B45-485F-8CC0-6332F2603F24",
           "itemURL" : "https://apple.box.com/s/43whc3cqsl9b6fo652oarruta4yywz6g",
           "title" : "Session Designer",
           "itemDescription" : "This mapping tool is created to help you design highly engaging, hands-on Apple Professional Learning experiences. It incudes a Planning Canvas with design elements and a Session section to plan your session in detail. \r",
@@ -110,13 +110,13 @@
     },
     {
       "symbolName" : "bubble.left",
-      "id" : "6D18119C-3FBE-4DE3-A340-3F25790B854E",
+      "id" : "C4E22A45-51C6-408E-BC98-A16B62F3AA57",
       "items" : [
         {
-          "id" : "E6683F9A-3767-40D1-A475-1B534EFE1A70",
+          "id" : "05222FE0-9095-43D6-A7BB-26AC1F7601F3",
           "itemURL" : "https://apple.box.com/s/vdgmzawjmyg1n7k0yrghpy38auh8f3kf",
           "title" : "Agenda",
-          "itemDescription" : "Use the Agenda template to communicate your upcoming Apple Professional Learning experiences with any audience, from large groups to small groups, in-person or virtual.\n\n\n\nLearn more about how to communicate with Agenda ›\r",
+          "itemDescription" : "Use the Agenda template to communicate your upcoming Apple Professional Learning experiences with any audience, from large groups to small groups, in-person or virtual.\n\n\n\n[Learn more about how to communicate with Agenda ›](https://seedsales.apple.com/home/collection/R006046-en_WW)\r",
           "searchTerms" : [
             "pages",
             "agenda",
@@ -128,10 +128,10 @@
           "passwordProtected" : false
         },
         {
-          "id" : "22312057-6878-4B4D-A2D0-4AAD44C9AD6E",
+          "id" : "6ECCB107-8516-4485-8110-735CF9C80128",
           "itemURL" : "https://apple.box.com/s/nz4ja43q7p2hz9wxt9ten54iza7k796c",
           "title" : "Roster",
-          "itemDescription" : "Use the Roster template to keep track of session attendance. Learn more about how to communicate with Roster ›\r",
+          "itemDescription" : "Use the Roster template to keep track of session attendance.\n\n[Learn more about how to communicate with Roster ›](https://seedsales.apple.com/home/collection/R006046-en_WW)\r",
           "searchTerms" : [
             "numbers",
             "roster",
@@ -142,10 +142,10 @@
           "passwordProtected" : false
         },
         {
-          "id" : "3E4B1A66-FDC1-47E1-9B0A-983B22265655",
+          "id" : "EC9AD405-2307-466D-9BED-72DBC06AC5C2",
           "itemURL" : "https://apple.box.com/s/cky5g6cl0x421ljgzec0s5q9fi7mwuhv",
           "title" : "Brief",
-          "itemDescription" : "Use the Brief template to highlight the impact of your Apple Professional Learning experiences and stay connected with your audiences.\n\n\n\nLearn more about how to communicate with Brief ›\r",
+          "itemDescription" : "Use the Brief template to highlight the impact of your Apple Professional Learning experiences and stay connected with your audiences.\n\n\n\n[Learn more about how to communicate with Brief ›](https://seedsales.apple.com/home/collection/R006046-en_WW)\r",
           "searchTerms" : [
             "pages",
             "brief",
@@ -156,10 +156,10 @@
           "passwordProtected" : false
         },
         {
-          "id" : "4EB06389-F51D-4E38-ADE8-C9C8EA8EAC9A",
+          "id" : "2A25135A-643D-4D55-B276-B4624E85B036",
           "itemURL" : "https://apple.box.com/s/nn4rhltsi0p0wukh67zlphcdmm0qr25e",
           "title" : "Focus Plan",
-          "itemDescription" : "Use the Focus Plan template to communicate a clear set of goals for an Apple Professional Learning engagement.\n\n\n\nLearn more about how to communicate with Focus Plan ›\r",
+          "itemDescription" : "Use the Focus Plan template to communicate a clear set of goals for an Apple Professional Learning engagement.\n\n\n\n[Learn more about how to communicate with Focus Plan ›](https://seedsales.apple.com/home/collection/R006046-en_WW)\r",
           "searchTerms" : [
             "focus",
             "pages"
@@ -169,7 +169,7 @@
           "passwordProtected" : false
         },
         {
-          "id" : "68D310CC-717A-4E3E-9789-1D880EFE4E40",
+          "id" : "2C7807BA-2982-4134-AB2A-7F22C4215572",
           "itemURL" : "https://apple.box.com/s/kauks190wacbdsxlhtlp4bxf4gexbvz0",
           "title" : "SF Hello",
           "itemDescription" : "Say hello to SF Hello—our font developed by Apple for use on any Apple Professional Learning communication.\n\nRegional versions that support Arabic, Chinese, Japanese, Korean, and Thai are also available, along with SF Mono, the Apple font used for code.\r",
@@ -182,7 +182,7 @@
           "passwordProtected" : false
         },
         {
-          "id" : "4818EF6A-4D3E-4FF5-BE71-B3B73597A5EE",
+          "id" : "6F4B69B4-26B3-47FA-9E21-6BC0C37D622C",
           "itemURL" : "https://apple.box.com/s/vmgfrwdy1jqk1o9jhuyxpca8et2w6vxe",
           "title" : "Flyers",
           "itemDescription" : "This collection of PDF documents provides an overview of Apple Professional Learning and the types of offerings available to customers.\r",
@@ -199,13 +199,13 @@
     },
     {
       "symbolName" : "person.circle",
-      "id" : "90539B2E-6ECF-4B41-A5E9-3E7CC240E0AB",
+      "id" : "DC0DCFFE-DA4E-474B-9FB0-9C8BADB198E5",
       "items" : [
         {
-          "id" : "1142DE20-5CA3-4567-9691-AD8E70A2D716",
+          "id" : "FB71C028-D2C7-4181-AF65-98F8BEBFF97E",
           "itemURL" : "https://apple.box.com/s/25neszogy981i6zh3aepzrpjs0ixiapx",
           "title" : "APL Compass",
-          "itemDescription" : "Apple Professional Learning (APL) Compass is an interactive resource that can help leaders, educators, and IT evaluate their needs and figure out where to go next on their professional learning journey. Compass is a Numbers spreadsheet, so it’s easy to share with customers, can be filled out on Mac or iPad, and shows real-time results.\n\n\n\nLearn more about how to use APL Compass ›\r",
+          "itemDescription" : "Apple Professional Learning (APL) Compass is an interactive resource that can help leaders, educators, and IT evaluate their needs and figure out where to go next on their professional learning journey. Compass is a Numbers spreadsheet, so it’s easy to share with customers, can be filled out on Mac or iPad, and shows real-time results.\n\n\n\n[Learn more about how to use APL Compass ›](https://seedsales.apple.com/home/collection/R006184-en_WW)\r",
           "searchTerms" : [
             "numbers",
             "compass",
@@ -216,10 +216,10 @@
           "passwordProtected" : false
         },
         {
-          "id" : "73723F6F-9D3F-42DD-AFB2-9E1AE5BCC704",
+          "id" : "CB6A4AE7-81C7-40CA-B2AE-95F4D026C6B2",
           "itemURL" : "https://apple.box.com/s/a71bnbuqsetl41cna4v87v0yckzey9f0",
           "title" : "ELC Specialist Toolkit",
-          "itemDescription" : "\"The Specialist Toolkit leverages the features and flexibility of Numbers to help Specialists efficiently manage emails, scheduling, and rosters.\n\nAnd for each session",
+          "itemDescription" : "The Specialist Toolkit leverages the features and flexibility of Numbers to help Specialists efficiently manage emails, scheduling, and rosters.\n\nAnd for each session, there’s a corresponding sheet with a summary of the session, tools to help guide the conversation, and a flexible note-taking space.\r",
           "searchTerms" : [
             "numbers",
             "elc",
@@ -230,7 +230,7 @@
           "passwordProtected" : true
         },
         {
-          "id" : "26724DFB-6696-4D08-B46F-4AABCBD0E12A",
+          "id" : "12151BCE-6220-472E-8762-CE373B009CA5",
           "itemURL" : "https://apple.box.com/s/e9ilk4m8nh0yoz220gms6zrmhrh0k5jf",
           "title" : "Leadership Coaching Journal",
           "itemDescription" : "The Executive Leadership Coaching Journal is a space for leaders to reflect on their experience and document their coaching journey.\r",
@@ -244,7 +244,7 @@
           "passwordProtected" : true
         },
         {
-          "id" : "30E76751-931A-4DEF-ACBD-4A03F021DEF9",
+          "id" : "20CFDC2B-C0E6-4B4F-BC8B-B9F90A39E6E3",
           "itemURL" : "https://apple.box.com/s/gnwl3o36guzapdku2m64bm41lqa4hfos",
           "title" : "DLT Activity Guide - iPad",
           "itemDescription" : "The iPad Deployment for Learning and Teaching Activity Guide contains instructions for hands-on exercises to facilitate Deployment for Learning and Teaching iPad sessions. \r",
@@ -259,7 +259,7 @@
           "passwordProtected" : true
         },
         {
-          "id" : "E76F9C4E-2F06-45CE-B41B-42F1B7DB8455",
+          "id" : "110FD866-C733-4386-859C-9EAE102FE668",
           "itemURL" : "https://apple.box.com/s/gnwl3o36guzapdku2m64bm41lqa4hfos",
           "title" : "DLT Activity Guide - Mac",
           "itemDescription" : "The Mac Deployment for Learning and Teaching Activity Guide contains instructions for hands-on exercises to facilitate Deployment for Learning and Teaching Mac sessions. \r",
@@ -274,7 +274,7 @@
           "passwordProtected" : true
         },
         {
-          "id" : "363B3A9C-EE27-4667-8555-4ED9BBB9B5B7",
+          "id" : "EF6F4391-6B88-4C3B-9AAF-61C37B1F46FB",
           "itemURL" : "https://apple.box.com/s/7qwod7rk05elz4txihpdyozyzvhwv5zd",
           "title" : "Tech Integration Checklist - iPad",
           "itemDescription" : "The iPad Deployment for Learning and Teaching Technology Integration Checklist is designed to support an institution’s Apple technology integration.\n\nThis resource is divided into sections with tasks for the Deployment Leadership, IT, Purchasing, and Education Technology teams. \r",
@@ -289,7 +289,7 @@
           "passwordProtected" : true
         },
         {
-          "id" : "5E94BA2B-E6DF-438A-99A1-3AB5560E7072",
+          "id" : "D5C02CFD-B14C-4B9A-8913-2181877390E9",
           "itemURL" : "https://apple.box.com/s/7qwod7rk05elz4txihpdyozyzvhwv5zd",
           "title" : "Tech Integration Checklist - Mac",
           "itemDescription" : "The Mac Deployment for Learning and Teaching Technology Integration Checklist is designed to support an institution’s Apple technology integration.\n\nThis resource is divided into sections with tasks for the Deployment Leadership, IT, Purchasing, and Education Technology teams. \r",
@@ -308,13 +308,13 @@
     },
     {
       "symbolName" : "hands.sparkles",
-      "id" : "6A70BFB7-2E51-44B6-86C7-40EF2FAAA13B",
+      "id" : "0A480B61-9D0A-4AED-A101-48614D463CA3",
       "items" : [
         {
-          "id" : "B27E9599-CD42-4C03-8FBC-75C25D065E7E",
+          "id" : "54D9E6E8-D1EB-49CA-9087-C482B0B94631",
           "itemURL" : "https://apple.box.com/s/d14e4ggmtg2xafmyvslp9qffeu7oi1vi",
           "title" : "APLS Theme",
-          "itemDescription" : "Use APLS Theme to structure your sessions while maintaining the Apple Professional Learning identity. This theme is designed to provide the best hands-on experience for your sessions.\n\n\n\nLearn more about how to facilitate with APLS Theme ›\r",
+          "itemDescription" : "Use APLS Theme to structure your sessions while maintaining the Apple Professional Learning identity. This theme is designed to provide the best hands-on experience for your sessions.\n\n\n\n[Learn more about how to facilitate with APLS Theme ›](https://seedsales.apple.com/home/collection/R006046-en_WW)\r",
           "searchTerms" : [
             "keynote",
             "template",
@@ -325,7 +325,7 @@
           "passwordProtected" : false
         },
         {
-          "id" : "B2BE1F98-0E88-458E-B6B0-808737277A2A",
+          "id" : "18A16D6D-B6A5-4ED7-AFCC-A29A07735A51",
           "itemURL" : "https://apple.box.com/s/p5y9wdc4gz33c1urcjlqoy86etzefkuk",
           "title" : "APLS Theme - Guidelines",
           "itemDescription" : "After downloading APLS Theme, enhance your sessions with APLS Theme Guidelines: find sample slides, icons, and more.\r",
@@ -344,10 +344,10 @@
     },
     {
       "symbolName" : "network",
-      "id" : "4D254193-4AFE-44AE-AE55-181D23397580",
+      "id" : "8D62257A-0F7C-4BAA-8BD5-E7F5A2589E2B",
       "items" : [
         {
-          "id" : "F6A93502-BFF5-4A3C-87E9-3E8E2B91351D",
+          "id" : "7FB637D6-E22B-44FC-910B-0EA6C3893290",
           "itemURL" : "https://education-corp.apple.com/en/community/apple-groups/apl-internal",
           "title" : "Education Community",
           "itemDescription" : "Visit our dedicated area in the Apple Education Community to receive important news and updates, connect with peers to collaborate on projects, or plan content for the public Forum areas.\r",
@@ -360,7 +360,7 @@
           "passwordProtected" : false
         },
         {
-          "id" : "4350B1E1-FF45-47E7-89F3-51D26BB702DB",
+          "id" : "10F739AC-5242-4857-96AB-EA8EFFEBBE14",
           "itemURL" : "",
           "title" : "APL Events",
           "itemDescription" : "Learn about our latest updates to help you grow in your role as a Specialist and create the most innovative Apple Professional Learning experiences in the world. Discover tips, resources, and inspirational stories.\r",
@@ -373,7 +373,7 @@
           "passwordProtected" : false
         },
         {
-          "id" : "7E869936-577F-4612-8BAF-D7FFC9A6B1EB",
+          "id" : "182F038B-A65C-4446-A806-34B05064382B",
           "itemURL" : "",
           "title" : "WWAPL Summit",
           "itemDescription" : "WWAPL Summit is Apple Professional Learning's annual Worldwide Specialist Conference where Specialists can attend sessions and meet with Apple Professional Learning leadership.\r",
@@ -390,10 +390,10 @@
     },
     {
       "symbolName" : "leaf",
-      "id" : "2AADCE5F-B667-4781-99B4-8E5FE413E62E",
+      "id" : "C3448DDF-DBD8-421E-B69C-8F27F8E518DB",
       "items" : [
         {
-          "id" : "690B5A08-881E-4E40-98B7-FF6EA7ED3ED1",
+          "id" : "E32E6911-B874-42A2-8720-210FE22CB456",
           "itemURL" : "Coming Soon",
           "title" : "Experience Journal",
           "itemDescription" : "The Experience Journal is a roadmap to explore, plan, and support your future growth as an Apple Professional Learning Specialist.\r",
@@ -408,7 +408,7 @@
           "passwordProtected" : false
         },
         {
-          "id" : "47853A69-5C9F-4D97-9DCB-863CF433F55F",
+          "id" : "FD767A3F-4AC5-44D9-8CC5-5718CFB57A15",
           "itemURL" : "https://www.icloud.com/shortcuts/2e96fa7647024da6910f5607b3fe656e",
           "title" : "Accessibility Assistant - iPad ",
           "itemDescription" : "The Accessibility Assistant shortcut creates a summary of accessibility features and resources by asking questions about a person's needs. This is a Web Clip that will open in Safari and prompt for installation into the Shortcuts application.\n\nOnce added, select the needs of the user and choose as many as needed. This creates a note populated with Apple Support page links and resources, on suggested built-in accessibility features.\r",
@@ -421,7 +421,7 @@
           "passwordProtected" : false
         },
         {
-          "id" : "A69262A5-0744-4DC8-B061-2B2FB8FF8478",
+          "id" : "C7EFC963-023F-44C1-AF67-0D2D371B2AEA",
           "itemURL" : "https://www.icloud.com/shortcuts/77e1f658e54a4ee18ff6df792274603a",
           "title" : "Accessibility Assistant - Mac ",
           "itemDescription" : "The Accessibility Assistant shortcut creates a summary of accessibility features and resources by asking questions about a person's needs. This is a Web Clip that will open in Safari and prompt for installation into the Shortcuts application.\n\nOnce added, select the needs of the user and choose as many as needed. This creates a note populated with Apple Support page links and resources, on suggested built-in accessibility features.\r",
@@ -434,7 +434,7 @@
           "passwordProtected" : false
         },
         {
-          "id" : "0EEA7982-CC2A-43B2-9FB1-5121E1B04B71",
+          "id" : "207F8811-D7EE-404A-820F-DAD478585428",
           "itemURL" : "https://seedsales-corp.apple.com/home/discover",
           "title" : "SEED",
           "itemDescription" : "Explore the latest news and resources for your growth as an Apple Professional Learning Specialist. The Apple SEED app helps you get ready for any learning experience with news, tips, games, and other training resources—where and when you need them.\r",
@@ -446,7 +446,7 @@
           "passwordProtected" : false
         },
         {
-          "id" : "70358D4A-8438-43B4-861C-C49BD8743DE4",
+          "id" : "5D6C34FD-E19B-4892-9CFA-9BDFE0D480E8",
           "itemURL" : "https://apple.box.com/s/krsebhy7u4podmd20ucwdoxvbpctjmwb",
           "title" : "Growth Progress Snapshot ",
           "itemDescription" : "Growth and Progress Snapshot (GPS) is a learning tool designed to help identify what great behaviors look and sound like related to a specific topic.\n\nUse it to assess your current knowledge, skills, and behaviors around a topic to create high-quality Apple Professional Learning experiences.",
@@ -464,10 +464,10 @@
     },
     {
       "symbolName" : "hand.point.up.left",
-      "id" : "98128D5B-3F4C-480F-8122-BA22870C7ADC",
+      "id" : "BFE26336-F425-4C30-B89E-E57C794F9B79",
       "items" : [
         {
-          "id" : "EF3523F9-7B93-419B-8576-8B8926AE1E7A",
+          "id" : "8D24F630-522F-4077-9074-C38E6D75E092",
           "itemURL" : "https://www.apple.com",
           "title" : "Test",
           "itemDescription" : "",
