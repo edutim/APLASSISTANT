@@ -1,0 +1,490 @@
+{
+  "categories" : [
+    {
+      "name" : "hands.sparkles",
+      "items" : [
+        {
+          "title" : "APLS Theme",
+          "searchTerms" : [
+            "keynote",
+            "template",
+            "apls"
+          ],
+          "itemURL" : "https://apple.box.com/s/d14e4ggmtg2xafmyvslp9qffeu7oi1vi",
+          "buttonTitle" : "Có",
+          "imageName" : "keynoteTemplateIcon",
+          "passwordProtected" : false,
+          "itemDescription" : "Sử dụng Chủ đề APLS để cấu trúc các phiên của bạn trong khi vẫn duy trì danh tính Học tập Chuyên nghiệp của Apple. Chủ đề này được thiết kế để cung cấp trải nghiệm thực hành tốt nhất cho các phiên của bạn. \n\n[Tìm hiểu thêm về cách tạo điều kiện với Chủ đề APLS ›](https://seedsales.apple.com/home/collection/R006046-en_WW)\r",
+          "id" : "A6D0A90F-8724-48F2-9465-1E7BC018C491"
+        },
+        {
+          "passwordProtected" : false,
+          "title" : "APLS Theme - Guidelines",
+          "imageName" : "keynoteTemplateIcon",
+          "searchTerms" : [
+            "keynote",
+            "template",
+            "theme",
+            "apps"
+          ],
+          "itemURL" : "https://apple.box.com/s/p5y9wdc4gz33c1urcjlqoy86etzefkuk",
+          "itemDescription" : "Sau khi tải xuống Chủ đề APLS, nâng cao các phiên của bạn với Hướng dẫn Chủ đề APLS: tìm các trang trình bày mẫu, biểu tượng, và hơn thế nữa.\r",
+          "buttonTitle" : "Có",
+          "id" : "E1E6EC50-D930-422C-AE6D-D648DFE271FA"
+        }
+      ],
+      "id" : "F16F17E6-D49F-4433-90CE-DFC52CE1121C",
+      "symbolName" : "hands.sparkles"
+    },
+    {
+      "symbolName" : "person.circle",
+      "name" : "person.circle",
+      "id" : "282341AB-EC62-43FF-BA28-956165CA521E",
+      "items" : [
+        {
+          "itemDescription" : "Apple Professional Learning Compass (APL) là một tài nguyên tương tác có thể giúp các nhà lãnh đạo, các nhà giáo dục, và CNTT đánh giá nhu cầu của họ và tìm ra nơi tiếp theo trong hành trình học tập chuyên nghiệp của họ. La bàn là một bảng tính Numbers, vì vậy thật dễ dàng để chia sẻ với khách hàng, có thể được điền trên Mac hoặc iPad, và hiển thị kết quả theo thời gian thực. \n\n\n\n[Tìm hiểu thêm về cách sử dụng APL Compass ›](https://seedsales.apple.com/home/collection/R006184-en_WW)\r",
+          "buttonTitle" : "Có",
+          "id" : "BCFE8118-D403-49BB-8EFF-AB722887E9AA",
+          "title" : "APL Compass",
+          "searchTerms" : [
+            "numbers",
+            "compass",
+            "apl"
+          ],
+          "passwordProtected" : false,
+          "imageName" : "numbersTemplateIcon",
+          "itemURL" : "https://apple.box.com/s/25neszogy981i6zh3aepzrpjs0ixiapx"
+        },
+        {
+          "buttonTitle" : "Có",
+          "itemDescription" : "Bộ công cụ Chuyên gia tận dụng các tính năng và tính linh hoạt của Numbers để giúp các Chuyên gia quản lý hiệu quả email, lên lịch, và danh sách. \n\nVà đối với mỗi phiên, có một bảng tương ứng với bản tóm tắt của phiên, các công cụ để giúp hướng dẫn cuộc trò chuyện, và một không gian ghi chú linh hoạt.\r",
+          "title" : "ELC Specialist Toolkit",
+          "imageName" : "numbersTemplateIcon",
+          "id" : "8DD72E2B-BE69-4AC8-8E4D-1EA3697D5E15",
+          "passwordProtected" : true,
+          "searchTerms" : [
+            "numbers",
+            "elc",
+            "toolkit"
+          ],
+          "itemURL" : "https://apple.box.com/s/a71bnbuqsetl41cna4v87v0yckzey9f0"
+        },
+        {
+          "title" : "Leadership Coaching Journal",
+          "itemDescription" : "Tạp chí Huấn luyện Lãnh đạo Điều hành là không gian để các nhà lãnh đạo suy ngẫm về kinh nghiệm của họ và ghi lại hành trình huấn luyện của họ.\r",
+          "itemURL" : "https://apple.box.com/s/e9ilk4m8nh0yoz220gms6zrmhrh0k5jf",
+          "imageName" : "pagesTemplateIcon",
+          "passwordProtected" : true,
+          "searchTerms" : [
+            "pages",
+            "leadership",
+            "coaching"
+          ],
+          "id" : "B7FE4D97-11F2-43CB-B616-4CB5DAFD4CB3",
+          "buttonTitle" : "Có"
+        },
+        {
+          "itemDescription" : "Hướng dẫn Triển khai cho Hoạt động Học tập và Giảng dạy chứa các hướng dẫn cho các bài tập thực hành để tạo điều kiện cho các phiên Triển khai cho Học tập và Giảng dạy iPad và Mac.\r",
+          "id" : "A8587D72-2F86-4479-8B67-765F617EB921",
+          "searchTerms" : [
+            "numbers",
+            "dlt",
+            "guide"
+          ],
+          "imageName" : "numbersTemplateIcon",
+          "buttonTitle" : "Có",
+          "passwordProtected" : true,
+          "itemURL" : "https://apple.box.com/s/gnwl3o36guzapdku2m64bm41lqa4hfos",
+          "title" : "DLT Activity Guide"
+        },
+        {
+          "buttonTitle" : "Có",
+          "imageName" : "numbersTemplateIcon",
+          "title" : "Tech Integration Checklist",
+          "searchTerms" : [
+            "numbers",
+            "integration",
+            "checklist"
+          ],
+          "itemURL" : "https://apple.box.com/s/7qwod7rk05elz4txihpdyozyzvhwv5zd",
+          "id" : "48C9EA5D-A9B0-4D5A-AB42-DA22E15DB2EB",
+          "itemDescription" : "Danh sách kiểm tra tích hợp công nghệ giảng dạy và học tập được thiết kế để hỗ trợ tích hợp công nghệ Apple của một tổ chức. \n\nTài nguyên này được chia thành các phần với các nhiệm vụ cho các nhóm Lãnh đạo Triển khai, CNTT, Mua hàng, và Công nghệ Giáo dục.\r",
+          "passwordProtected" : true
+        },
+        {
+          "passwordProtected" : false,
+          "buttonTitle" : "Sắp ra mắt",
+          "searchTerms" : [
+            "survey"
+          ],
+          "title" : "Learning Technologies Survey",
+          "itemDescription" : "Khảo sát Công nghệ Học tập cung cấp thông tin chi tiết về thực tiễn học tập và giảng dạy liên quan đến công nghệ trong trường học. \n\n[Tìm hiểu thêm về Khảo sát Công nghệ Học tập ›](https://seedsales-corp.apple.com/home/collection/165106)\r",
+          "imageName" : "preview",
+          "id" : "A94B2474-9B5C-475B-9DD2-6F284AB88D12",
+          "itemURL" : ""
+        }
+      ]
+    },
+    {
+      "symbolName" : "bubble.left",
+      "name" : "bubble.left",
+      "id" : "7D98A63E-33BF-4E21-92C7-E742F061B2B3",
+      "items" : [
+        {
+          "passwordProtected" : false,
+          "id" : "B97B544B-0E19-4C30-8A2F-84AB198BD0DB",
+          "searchTerms" : [
+            "pages",
+            "agenda",
+            "template",
+            ""
+          ],
+          "itemURL" : "https://apple.box.com/s/vdgmzawjmyg1n7k0yrghpy38auh8f3kf",
+          "title" : "Agenda",
+          "buttonTitle" : "Có",
+          "itemDescription" : "Sử dụng mẫu Chương trình nghị sự để truyền đạt trải nghiệm Học tập Chuyên nghiệp Apple sắp tới của bạn với bất kỳ đối tượng nào, từ các nhóm lớn đến các nhóm nhỏ, trực tiếp hoặc ảo. \n\n[Tìm hiểu thêm về cách giao tiếp với Agenda ›](https://seedsales.apple.com/home/collection/R006046-en_WW)\r",
+          "imageName" : "pagesTemplateIcon"
+        },
+        {
+          "searchTerms" : [
+            "numbers",
+            "roster",
+            "template"
+          ],
+          "imageName" : "numbersTemplateIcon",
+          "passwordProtected" : false,
+          "itemURL" : "https://apple.box.com/s/nz4ja43q7p2hz9wxt9ten54iza7k796c",
+          "id" : "6B546DA1-92DE-4187-B798-6BC8F3D2F40C",
+          "title" : "Roster",
+          "itemDescription" : "Sử dụng mẫu Danh sách để theo dõi việc tham dự phiên. \n\n [Tìm hiểu thêm về cách giao tiếp với Roster ›](https://seedsales.apple.com/home/collection/R006046-en_WW)\r",
+          "buttonTitle" : "Có"
+        },
+        {
+          "imageName" : "pagesTemplateIcon",
+          "buttonTitle" : "Có",
+          "itemURL" : "https://apple.box.com/s/cky5g6cl0x421ljgzec0s5q9fi7mwuhv",
+          "id" : "3B0A6B0B-779C-47B3-9823-6AFC0114D4A2",
+          "title" : "Brief",
+          "searchTerms" : [
+            "pages",
+            "brief",
+            "template"
+          ],
+          "itemDescription" : "Sử dụng mẫu Tóm tắt để làm nổi bật tác động của trải nghiệm Học tập Chuyên nghiệp Apple của bạn và duy trì kết nối với khán giả của bạn. \n\n\n\n[Tìm hiểu thêm về cách giao tiếp với Brief ›](https://seedsales.apple.com/home/collection/R006046-en_WW)\r",
+          "passwordProtected" : false
+        },
+        {
+          "title" : "Focus Plan",
+          "imageName" : "pagesTemplateIcon",
+          "itemURL" : "https://apple.box.com/s/nn4rhltsi0p0wukh67zlphcdmm0qr25e",
+          "searchTerms" : [
+            "focus",
+            "pages"
+          ],
+          "passwordProtected" : false,
+          "buttonTitle" : "Có",
+          "id" : "881E841B-DD43-411F-A0B3-E6E3BB54750F",
+          "itemDescription" : "Sử dụng mẫu Kế hoạch Tập trung để truyền đạt một bộ mục tiêu rõ ràng cho sự tham gia Học tập Chuyên nghiệp của Apple. \n\n[Tìm hiểu thêm về cách giao tiếp với Focus Plan ›](https://seedsales.apple.com/home/collection/R006046-en_WW)\r"
+        },
+        {
+          "imageName" : "fontIcon",
+          "passwordProtected" : false,
+          "id" : "7959C988-7BE4-4E9A-BF7E-142816922465",
+          "itemDescription" : "Nói xin chào với SF Hello - phông chữ của chúng tôi do Apple phát triển để sử dụng trên bất kỳ giao tiếp Học tập Chuyên nghiệp nào của Apple. \n\nPhiên bản khu vực hỗ trợ tiếng Ả Rập, tiếng Trung, tiếng Nhật, tiếng Hàn, và tiếng Thái cũng có sẵn, cùng với SF Mono, phông chữ Apple được sử dụng cho mã.\r",
+          "title" : "SF Hello",
+          "buttonTitle" : "Có",
+          "itemURL" : "https://apple.box.com/s/kauks190wacbdsxlhtlp4bxf4gexbvz0",
+          "searchTerms" : [
+            "font",
+            "sf"
+          ]
+        },
+        {
+          "title" : "Flyers",
+          "searchTerms" : [
+            "flyer",
+            "pdf"
+          ],
+          "itemURL" : "https://apple.box.com/s/vmgfrwdy1jqk1o9jhuyxpca8et2w6vxe",
+          "buttonTitle" : "Có",
+          "imageName" : "preview",
+          "passwordProtected" : false,
+          "id" : "BEB503B8-C0F5-47BF-B425-D77646F504F6",
+          "itemDescription" : "Bộ sưu tập tài liệu PDF này cung cấp tổng quan về Apple Professional Learning và các loại dịch vụ có sẵn cho khách hàng.\r"
+        },
+        {
+          "id" : "096367AE-94BE-45D7-8933-5BECDB5D4E6B",
+          "buttonTitle" : "Có",
+          "itemURL" : "https://apple.box.com/s/l7lomuogqt6smx2kz2ce7zlmh7ve90rb",
+          "searchTerms" : [
+            "signature",
+            "guidelines"
+          ],
+          "passwordProtected" : true,
+          "imageName" : "preview",
+          "title" : "APLS Signature",
+          "itemDescription" : "Chữ ký chỉ được sử dụng bởi các Chuyên gia Học tập Chuyên nghiệp của Apple đã được phê duyệt, và chỉ trong năm hoặc nhiều năm được ủy quyền. \n\nNhững hướng dẫn này cung cấp hướng dẫn về cách sử dụng chính xác chữ ký Chuyên gia Học tập Chuyên nghiệp của Apple trong chương trình và truyền thông tiếp thị. \n\n*Nhân viên Apple vui lòng tuân theo hướng dẫn nhận dạng công ty.\r"
+        }
+      ]
+    },
+    {
+      "symbolName" : "star",
+      "items" : [
+        {
+          "passwordProtected" : false,
+          "title" : "SF Hello",
+          "imageName" : "fontIcon",
+          "searchTerms" : [
+            "sf",
+            "font",
+            ""
+          ],
+          "id" : "5AFD1EBC-7F36-4DFA-9DE7-5E58AE08386C",
+          "itemURL" : "https://apple.box.com/s/kauks190wacbdsxlhtlp4bxf4gexbvz0",
+          "buttonTitle" : "Có",
+          "itemDescription" : "Nói xin chào với SF Hello - phông chữ của chúng tôi do Apple phát triển để sử dụng trong giao tiếp Học tập Chuyên nghiệp của Apple. \n\nPhiên bản khu vực hỗ trợ tiếng Ả Rập, tiếng Trung, tiếng Nhật, tiếng Hàn, và tiếng Thái cũng có sẵn, cùng với SF Mono, phông chữ Apple được sử dụng cho mã.\r"
+        },
+        {
+          "buttonTitle" : "Có",
+          "itemURL" : "https://www.icloud.com/shortcuts/2e96fa7647024da6910f5607b3fe656e",
+          "passwordProtected" : false,
+          "searchTerms" : [
+            "accessibility",
+            "iPad"
+          ],
+          "imageName" : "accessibilityIcon",
+          "title" : "Accessibility Assistant - iPad ",
+          "itemDescription" : "Phím tắt Trợ lý Trợ năng tạo ra một bản tóm tắt các tính năng và tài nguyên trợ năng bằng cách đặt câu hỏi về nhu cầu của một người. Đây là một Web Clip sẽ mở trong Safari và nhắc cài đặt vào ứng dụng Phím tắt. \n\nSau khi được thêm, chọn nhu cầu của người dùng và chọn càng nhiều càng tốt. Điều này tạo ra một ghi chú với các liên kết và tài nguyên trang Hỗ trợ của Apple, về các tính năng trợ năng tích hợp được đề xuất.\r",
+          "id" : "C3748E63-27B9-479F-A858-B5C61CF818F7"
+        },
+        {
+          "buttonTitle" : "Có",
+          "searchTerms" : [
+            "accessibility",
+            "mac"
+          ],
+          "id" : "D9914D58-07C4-4E98-88AA-E1C6112A180B",
+          "passwordProtected" : false,
+          "itemDescription" : "Phím tắt Trợ lý Trợ năng tạo ra một bản tóm tắt các tính năng và tài nguyên trợ năng bằng cách đặt câu hỏi về nhu cầu của một người. Đây là một Web Clip sẽ mở trong Safari và nhắc cài đặt vào ứng dụng Phím tắt. \n\nSau khi được thêm, chọn nhu cầu của người dùng và chọn càng nhiều càng tốt. Điều này tạo ra một ghi chú với các liên kết và tài nguyên trang Hỗ trợ của Apple, về các tính năng trợ năng tích hợp được đề xuất.\r",
+          "imageName" : "accessibilityIcon",
+          "title" : "Accessibility Assistant - Mac ",
+          "itemURL" : "https://www.icloud.com/shortcuts/77e1f658e54a4ee18ff6df792274603a"
+        },
+        {
+          "buttonTitle" : "Thăm viếng",
+          "searchTerms" : [
+            "seed"
+          ],
+          "passwordProtected" : false,
+          "title" : "SEED",
+          "imageName" : "seed",
+          "itemDescription" : "Khám phá những tin tức và tài nguyên mới nhất cho sự phát triển của bạn với tư cách là Chuyên gia Học tập Chuyên nghiệp của Apple. Ứng dụng Apple SEED giúp bạn sẵn sàng cho bất kỳ trải nghiệm học tập nào với tin tức, mẹo, trò chơi, và các tài nguyên đào tạo khác — ở đâu và khi nào bạn cần chúng.\r",
+          "itemURL" : "https://seedsales-corp.apple.com/home/discover",
+          "id" : "EDC24E25-7037-493A-A6A5-D9DB65902542"
+        },
+        {
+          "id" : "A23F8074-173D-4099-B9EB-BED6C12D6CC4",
+          "passwordProtected" : false,
+          "itemDescription" : "\"Hội nghị thượng đỉnh WWAPL là Hội nghị Chuyên gia Toàn cầu hàng năm của Apple Professional Learning",
+          "imageName" : "wwaplSummit",
+          "searchTerms" : [
+            "wwapl",
+            "summit"
+          ],
+          "buttonTitle" : "Sắp ra mắt",
+          "itemURL" : "",
+          "title" : "WWAPL Summit"
+        },
+        {
+          "searchTerms" : [
+            "growth",
+            "progress",
+            "snapshot"
+          ],
+          "passwordProtected" : false,
+          "imageName" : "numbersTemplateIcon",
+          "itemDescription" : "Growth and Progress Snapshot (GPS) là một công cụ học tập được thiết kế để giúp xác định những hành vi tuyệt vời trông và âm thanh như thế nào liên quan đến một chủ đề cụ thể. \n\nSử dụng nó để đánh giá kiến thức hiện tại của bạn, các kỹ năng, và hành vi xung quanh một chủ đề để tạo ra trải nghiệm Học tập Chuyên nghiệp Apple chất lượng cao.\r",
+          "buttonTitle" : "Có",
+          "id" : "EA02A1CC-BC18-4123-A6B5-0CF4AE065316",
+          "title" : "Growth Progress Snapshot ",
+          "itemURL" : "https://apple.box.com/s/krsebhy7u4podmd20ucwdoxvbpctjmwb"
+        }
+      ],
+      "name" : "star",
+      "id" : "38479561-B922-4266-8316-560B9586DC4A"
+    },
+    {
+      "id" : "77740406-9B7C-4DE6-AC9D-8A7C75873475",
+      "name" : "network",
+      "symbolName" : "network",
+      "items" : [
+        {
+          "searchTerms" : [
+            "education",
+            "community"
+          ],
+          "title" : "Education Community",
+          "id" : "A44BE1DF-23F2-4F43-8501-866D9C5A961B",
+          "passwordProtected" : false,
+          "itemDescription" : "Ghé thăm khu vực dành riêng của chúng tôi trong Cộng đồng Giáo dục Apple để nhận tin tức và cập nhật quan trọng, kết nối với các đồng nghiệp để cộng tác trong các dự án, hoặc lập kế hoạch nội dung cho các khu vực Diễn đàn công cộng.\r",
+          "buttonTitle" : "Thăm viếng",
+          "imageName" : "safariIcon",
+          "itemURL" : "https://education-corp.apple.com/en/community/apple-groups/apl-internal"
+        },
+        {
+          "itemURL" : "apple.co/apls-events ",
+          "imageName" : "aplLabs",
+          "itemDescription" : "Tìm hiểu về các bản cập nhật mới nhất của chúng tôi để giúp bạn phát triển vai trò Chuyên gia và tạo ra những trải nghiệm Học tập Chuyên nghiệp của Apple sáng tạo nhất trên thế giới. Khám phá các mẹo, tài nguyên, và những câu chuyện truyền cảm hứng.\r",
+          "id" : "BF78C577-0EEC-424C-A34B-24B6E8643F8F",
+          "title" : "APL Events",
+          "buttonTitle" : "Sắp ra mắt",
+          "searchTerms" : [
+            "apl",
+            "events"
+          ],
+          "passwordProtected" : false
+        },
+        {
+          "id" : "4450E1AF-B170-4DE2-9C7D-2E6043EE4794",
+          "itemDescription" : "\"Hội nghị thượng đỉnh WWAPL là Hội nghị Chuyên gia Toàn cầu hàng năm của Apple Professional Learning",
+          "title" : "WWAPL Summit",
+          "buttonTitle" : "Sắp ra mắt",
+          "passwordProtected" : false,
+          "itemURL" : "",
+          "imageName" : "wwaplSummit",
+          "searchTerms" : [
+            "wwapl",
+            "summit"
+          ]
+        }
+      ]
+    },
+    {
+      "symbolName" : "leaf",
+      "name" : "leaf",
+      "id" : "D28E55BA-F560-4CF7-9368-16E36FD5E20F",
+      "items" : [
+        {
+          "id" : "1438DBB6-A7AA-4B6B-BD43-BE62F391EDB0",
+          "itemURL" : "https://apple.box.com/s/ea0jyi2rmnnx6adh5jab2k6s2no0ciim",
+          "searchTerms" : [
+            "pages",
+            "template",
+            "experience",
+            "journal"
+          ],
+          "buttonTitle" : "Sắp ra mắt",
+          "itemDescription" : "Tạp chí Trải nghiệm là một lộ trình để khám phá, kế hoạch, và hỗ trợ sự phát triển trong tương lai của bạn với tư cách là Chuyên gia Học tập Chuyên nghiệp của Apple.\r",
+          "imageName" : "pagesTemplateIcon",
+          "passwordProtected" : false,
+          "title" : "Experience Journal"
+        },
+        {
+          "imageName" : "accessibilityIcon",
+          "searchTerms" : [
+            "accessibility",
+            "iPad"
+          ],
+          "itemURL" : "https://www.icloud.com/shortcuts/2e96fa7647024da6910f5607b3fe656e",
+          "title" : "Accessibility Assistant - iPad ",
+          "id" : "D26A0A5B-9F8E-4516-B671-3F9AF94BF371",
+          "passwordProtected" : false,
+          "itemDescription" : "Phím tắt Trợ lý Trợ năng tạo ra một bản tóm tắt các tính năng và tài nguyên trợ năng bằng cách đặt câu hỏi về nhu cầu của một người. Đây là một Web Clip sẽ mở trong Safari và nhắc cài đặt vào ứng dụng Phím tắt. \n\nSau khi được thêm, chọn nhu cầu của người dùng và chọn càng nhiều càng tốt. Điều này tạo ra một ghi chú với các liên kết và tài nguyên trang Hỗ trợ của Apple, về các tính năng trợ năng tích hợp được đề xuất.\r",
+          "buttonTitle" : "Có"
+        },
+        {
+          "itemURL" : "https://www.icloud.com/shortcuts/77e1f658e54a4ee18ff6df792274603a",
+          "imageName" : "accessibilityIcon",
+          "buttonTitle" : "Có",
+          "id" : "E6CEBB23-86D1-4857-98A4-F5AC9C1B8069",
+          "searchTerms" : [
+            "accessibility",
+            "mac"
+          ],
+          "itemDescription" : "Phím tắt Trợ lý Trợ năng tạo ra một bản tóm tắt các tính năng và tài nguyên trợ năng bằng cách đặt câu hỏi về nhu cầu của một người. Đây là một Web Clip sẽ mở trong Safari và nhắc cài đặt vào ứng dụng Phím tắt. \n\nSau khi được thêm, chọn nhu cầu của người dùng và chọn càng nhiều càng tốt. Điều này tạo ra một ghi chú với các liên kết và tài nguyên trang Hỗ trợ của Apple, về các tính năng trợ năng tích hợp được đề xuất.\r",
+          "title" : "Accessibility Assistant - Mac ",
+          "passwordProtected" : false
+        },
+        {
+          "title" : "SEED",
+          "buttonTitle" : "Thăm viếng",
+          "passwordProtected" : false,
+          "searchTerms" : [
+            "seed"
+          ],
+          "itemURL" : "https://seedsales-corp.apple.com/home/discover",
+          "itemDescription" : "Khám phá những tin tức và tài nguyên mới nhất cho sự phát triển của bạn với tư cách là Chuyên gia Học tập Chuyên nghiệp của Apple. Ứng dụng Apple SEED giúp bạn sẵn sàng cho bất kỳ trải nghiệm học tập nào với tin tức, mẹo, trò chơi, và các tài nguyên đào tạo khác — ở đâu và khi nào bạn cần chúng.\r",
+          "id" : "544EE1A2-75FB-4217-B468-BDE32E823EBD",
+          "imageName" : "seed"
+        },
+        {
+          "id" : "F496C8D0-AC70-4B8D-BAE5-A05ADB3C3695",
+          "buttonTitle" : "Có",
+          "itemURL" : "https://apple.box.com/s/krsebhy7u4podmd20ucwdoxvbpctjmwb",
+          "title" : "Growth Progress Snapshot ",
+          "passwordProtected" : false,
+          "searchTerms" : [
+            "growth",
+            "progress",
+            "snapshot"
+          ],
+          "imageName" : "numbersTemplateIcon",
+          "itemDescription" : "Growth and Progress Snapshot (GPS) là một công cụ học tập được thiết kế để giúp xác định những hành vi tuyệt vời trông và âm thanh như thế nào liên quan đến một chủ đề cụ thể. \n\nSử dụng nó để đánh giá kiến thức hiện tại của bạn, các kỹ năng, và hành vi xung quanh một chủ đề để tạo ra trải nghiệm Học tập Chuyên nghiệp Apple chất lượng cao.\r"
+        },
+        {
+          "itemURL" : "https://apple.box.com/s/ziuovdgvb5w5ollxo79zr589d5rfvc89",
+          "title" : "Handbook",
+          "id" : "2103674C-0AC8-4178-9161-748D8DCA2ADB",
+          "buttonTitle" : "Có",
+          "imageName" : "preview",
+          "itemDescription" : "Sổ tay hỗ trợ Thỏa thuận Nhà cung cấp Đào tạo của Apple bằng cách mô tả các kỳ vọng và yêu cầu về vai trò của Chuyên gia. Bạn sẽ tìm thấy thông tin về các Dịch vụ Hỗ trợ Học tập Chuyên nghiệp của Apple, kỳ vọng, cơ hội tăng trưởng và phát triển cũng như cách xây dựng danh tính của bạn với tư cách là Chuyên gia.",
+          "passwordProtected" : false,
+          "searchTerms" : [
+            "handbook"
+          ]
+        }
+      ]
+    },
+    {
+      "name" : "paintbrush",
+      "symbolName" : "paintbrush",
+      "id" : "97772D27-2C98-429C-84F2-E0E55FEED83A",
+      "items" : [
+        {
+          "title" : "Session Designer",
+          "searchTerms" : [
+            "numbers",
+            "session",
+            "planner"
+          ],
+          "buttonTitle" : "Có",
+          "id" : "F8C2611F-0B5A-4B60-A07A-846B5B4327E0",
+          "imageName" : "numbersTemplateIcon",
+          "itemURL" : "https://apple.box.com/s/43whc3cqsl9b6fo652oarruta4yywz6g",
+          "passwordProtected" : false,
+          "itemDescription" : "Công cụ lập bản đồ này được tạo ra để giúp bạn thiết kế những trải nghiệm Học tập Chuyên nghiệp của Apple rất hấp dẫn. Nó bao gồm một Planning Canvas với các yếu tố thiết kế và một phần Phiên để lên kế hoạch chi tiết cho phiên của bạn.\r"
+        }
+      ]
+    },
+    {
+      "items" : [
+        {
+          "passwordProtected" : false,
+          "imageName" : "person",
+          "id" : "F056E871-84C3-4700-B8DF-DB25BDF6A760",
+          "searchTerms" : [
+            "utilities"
+          ],
+          "buttonTitle" : "Get",
+          "title" : "Test",
+          "itemDescription" : "",
+          "itemURL" : "https://www.apple.com"
+        }
+      ],
+      "symbolName" : "hand.point.up.left",
+      "id" : "3A21034C-BB0D-4071-844A-CC8D4B1737F0",
+      "name" : "Assist"
+    }
+  ],
+  "id" : "B72B7C85-11CE-4C4E-B7CB-B89B8ABC709B"
+}
