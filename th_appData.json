@@ -1,0 +1,490 @@
+{
+  "categories" : [
+    {
+      "id" : "57285F30-D08A-4A20-BE27-99BF58D2DC0A",
+      "symbolName" : "star",
+      "name" : "ค้นพบ",
+      "items" : [
+        {
+          "passwordProtected" : false,
+          "imageName" : "fontIcon",
+          "itemURL" : "https://apple.box.com/s/kauks190wacbdsxlhtlp4bxf4gexbvz0",
+          "searchTerms" : [
+            "sf",
+            "font",
+            ""
+          ],
+          "title" : "SF Hello",
+          "id" : "B3482CF1-C0D9-4BB9-B5C5-8A4378D99B20",
+          "buttonTitle" : "ได้รับ",
+          "itemDescription" : "ฟอนต์ SF Hello เป็นฟอนต์ที่พัฒนาโดย Apple เพื่อให้ Apple Professional Learning (APLS) ได้ใช้งาน ซึ่งรองรับทั้งภาษาอาหรับ, ภาษาจีน,  ภาษาญี่ปุ่น,  ภาษาเกาหลี, และภาษาไทย มาพร้อมกับฟอนต์ SF Mono เป็นฟอนต์ที่ Apple ใช้สําหรับการเขียนโค้ด                                                                  \r"
+        },
+        {
+          "itemDescription" : "วิธีที่จะเข้าถึงแหล่งข้อมูล (สำหรับ iPad)\n1. VDO Clip นี้จะช่วยแนะนำในการติดตั้งแอปพลิเคชัน ผ่านทาง Safari\n2. เมื่อติดตั้งแอปพลิเคชันแล้ว ให้ระบุความต้องการของผู้ใช้งาน (สามารถระบุได้มากกว่า 1 รายการ) เมื่อระบุแล้วจะพบกับรายละะอียดที่เป็นลิงก์การสนับสนุนของ Apple และแหล่งข้อมูลที่เกี่ยวข้องกับคุณสมบัติการช่วยสําหรับการเข้าถึง\r",
+          "id" : "5B3872F5-876E-4171-BB43-F47D845383D7",
+          "searchTerms" : [
+            "accessibility",
+            "iPad"
+          ],
+          "itemURL" : "https://www.icloud.com/shortcuts/2e96fa7647024da6910f5607b3fe656e",
+          "imageName" : "accessibilityIcon",
+          "title" : "Accessibility Assistant - iPad ",
+          "buttonTitle" : "ได้รับ",
+          "passwordProtected" : false
+        },
+        {
+          "passwordProtected" : false,
+          "buttonTitle" : "ได้รับ",
+          "title" : "Accessibility Assistant - Mac ",
+          "itemDescription" : "วิธีที่จะเข้าถึงแหล่งข้อมูล (สำหรับ Mac)\n1. VDO Clip นี้จะช่วยแนะนำในการติดตั้งแอปพลิเคชัน ผ่านทาง Safari\n2. เมื่อติดตั้งแอปพลิเคชันแล้ว ให้ระบุความต้องการของผู้ใช้งาน (สามารถระบุได้มากกว่า 1 รายการ) เมื่อระบุแล้วจะพบกับรายละะอียดที่เป็นลิงก์การสนับสนุนของ Apple และแหล่งข้อมูลที่เกี่ยวข้องกับคุณสมบัติการช่วยสําหรับการเข้าถึง\r",
+          "id" : "D7FE7DEA-5688-4DFB-95A2-7CFD5AC091B8",
+          "imageName" : "accessibilityIcon",
+          "itemURL" : "https://www.icloud.com/shortcuts/77e1f658e54a4ee18ff6df792274603a",
+          "searchTerms" : [
+            "accessibility",
+            "mac"
+          ]
+        },
+        {
+          "imageName" : "seed",
+          "id" : "42882F0C-45FA-46F9-8754-8B4B68BA13EF",
+          "itemDescription" : "สํารวจข่าวสารและแหล่งข้อมูลล่าสุดสําหรับการเติบโตของคุณในฐานะผู้เชี่ยวชาญด้านการเรียนรู้ระดับมืออาชีพของ Apple แอป Apple SEED จะช่วยให้คุณเตรียมพร้อมสําหรับประสบการณ์การเรียนรู้ต่าง ๆ จากข่าวสารต่าง ๆ, เคล็ดลับ, เกม และแหล่งข้อมูลการฝึกอบรมอื่น ๆ\r",
+          "searchTerms" : [
+            "seed"
+          ],
+          "title" : "SEED",
+          "itemURL" : "https://seedsales-corp.apple.com/home/discover",
+          "passwordProtected" : false,
+          "buttonTitle" : "ออกตรวจ"
+        },
+        {
+          "title" : "WWAPL Summit",
+          "passwordProtected" : false,
+          "searchTerms" : [
+            "wwapl",
+            "summit"
+          ],
+          "itemDescription" : "WWAPL Summit เป็นการประชุม Worldwide Specialist Conference ประจําปีของ Apple Professional Learning ที่ผู้เชี่ยวชาญด้านการเรียนรู้ระดับมืออาชีพของ Apple สามารถเข้าร่วมเซสชันและพบปะกับผู้นํา Apple Professional Learning ทั่วโลก\r",
+          "itemURL" : "",
+          "id" : "E9481D17-D63F-4697-ADB5-DC499A350A6E",
+          "buttonTitle" : "เร็วๆ นี้",
+          "imageName" : "wwaplSummit"
+        },
+        {
+          "title" : "Growth Progress Snapshot ",
+          "itemDescription" : "Growth and Progress Snapshot (GPS) \nเป็นเครื่องมือการเรียนรู้ที่ออกแบบมาเพื่อช่วยระบุว่าคุณลักษณะที่ดีมีลักษณะอย่างไร เครื่องมือนี้จะช่วยประเมินคุณในด้านความรู้, ด้านทักษะ และด้านพฤติกรรม เพื่อเสริมสร้างประสบการณ์การเรียนรู้ระดับมืออาชีพของ Apple ในตัวคุณให้มีคุณภาพที่สูงขึ้น\r",
+          "passwordProtected" : false,
+          "buttonTitle" : "ได้รับ",
+          "searchTerms" : [
+            "growth",
+            "progress",
+            "snapshot"
+          ],
+          "id" : "6A419985-53B0-48BB-9D03-344E76DBCA9E",
+          "itemURL" : "https://apple.box.com/s/krsebhy7u4podmd20ucwdoxvbpctjmwb",
+          "imageName" : "numbersTemplateIcon"
+        }
+      ]
+    },
+    {
+      "name" : "เพื่อการออกแบบ",
+      "id" : "72346ED2-F43D-4D0C-930C-451DC2F84C7E",
+      "symbolName" : "paintbrush",
+      "items" : [
+        {
+          "title" : "Session Designer",
+          "imageName" : "numbersTemplateIcon",
+          "searchTerms" : [
+            "numbers",
+            "session",
+            "planner"
+          ],
+          "itemDescription" : "เครื่องมือต่อไปนี้สร้างขึ้นเพื่อช่วยให้คุณออกแบบประสบการณ์การเรียนรู้ระดับมืออาชีพของ Apple ในระดับที่สูง รวมถึง Planning Canvas ที่มีองค์ประกอบและการออกเพื่อวางแผนเซสชันของคุณโดยละเอียด\r",
+          "id" : "DFDAC4EB-635F-45DC-96E0-BF258B5DAEDC",
+          "itemURL" : "https://apple.box.com/s/43whc3cqsl9b6fo652oarruta4yywz6g",
+          "buttonTitle" : "ได้รับ",
+          "passwordProtected" : false
+        }
+      ]
+    },
+    {
+      "name" : "ติดต่อ",
+      "symbolName" : "bubble.left",
+      "id" : "293D3E9A-B4BE-4453-860F-38B27A83D251",
+      "items" : [
+        {
+          "itemURL" : "https://apple.box.com/s/vdgmzawjmyg1n7k0yrghpy38auh8f3kf",
+          "searchTerms" : [
+            "pages",
+            "agenda",
+            "template",
+            ""
+          ],
+          "passwordProtected" : false,
+          "itemDescription" : "ใช้เทมเพลตสำหรับกำหนดการประชุมเพื่อสร้างประสบการณ์การเรียนรู้ระดับมืออาชีพของ Apple สำหรับกลุ่มลูกค้าของคุณ ทั้งรูปแบบ On-Site ตั้งแต่กลุ่มใหญ่ กลุ่มย่อย แบบตัวต่อตัว หรือ รูแบบonline\n[เรียนรู้เพิ่มเติมเกี่ยวกับวิธีการสื่อสารกับ Agenda ›] (https://seedsales.apple.com/home/collection/R006046-en_WW)\r",
+          "imageName" : "pagesTemplateIcon",
+          "id" : "9A50B447-17D8-4F18-8C55-75F688FDC4C4",
+          "buttonTitle" : "ได้รับ",
+          "title" : "Agenda"
+        },
+        {
+          "searchTerms" : [
+            "numbers",
+            "roster",
+            "template"
+          ],
+          "passwordProtected" : false,
+          "buttonTitle" : "ได้รับ",
+          "itemURL" : "https://apple.box.com/s/nz4ja43q7p2hz9wxt9ten54iza7k796c",
+          "title" : "Roster",
+          "id" : "40381D8B-C5E9-4C26-A710-4EDAA0E9E143",
+          "imageName" : "numbersTemplateIcon",
+          "itemDescription" : "ใช้เทมเพลตบัญชีรายชื่อเพื่อติดตามการเข้าร่วมเซสชัน\n[เรียนรู้เพิ่มเติมเกี่ยวกับวิธีการสื่อสารกับบัญชีรายชื่อ ›](https://seedsales.apple.com/home/collection/R006046-en_WW)\r"
+        },
+        {
+          "itemURL" : "https://apple.box.com/s/cky5g6cl0x421ljgzec0s5q9fi7mwuhv",
+          "id" : "4D6FAF9C-8EA8-452E-9B70-8F8905B79FB7",
+          "imageName" : "pagesTemplateIcon",
+          "searchTerms" : [
+            "pages",
+            "brief",
+            "template"
+          ],
+          "buttonTitle" : "ได้รับ",
+          "title" : "Brief",
+          "passwordProtected" : false,
+          "itemDescription" : "ใช้เทมเพลตสรุปหลักจัดกิจกรรมต่าง ๆ เพื่อสะท้อนผลของประสบการณ์การเรียนรู้ระดับมืออาชีพของ Apple ของคุณและเชื่อมต่อกับผู้เข้าร่วมของคุณ\n[เรียนรู้เพิ่มเติมเกี่ยวกับวิธีการสื่อสารกับ Brief ›](https://seedsales.apple.com/home/collection/R006046-en_WW)\r"
+        },
+        {
+          "buttonTitle" : "ได้รับ",
+          "itemDescription" : "ใช้เทมเพลต Focus Plan เพื่อนำเสนอเป้าหมายที่ชัดเจนสําหรับการมีส่วนร่วมของ Apple Professional Learning\n[เรียนรู้เพิ่มเติมเกี่ยวกับวิธีการสื่อสารกับ Focus Plan ›](https://seedsales.apple.com/home/collection/R006046-en_WW)\r",
+          "passwordProtected" : false,
+          "imageName" : "pagesTemplateIcon",
+          "id" : "D745DB6B-3B53-46A3-B614-4B6244749223",
+          "title" : "Focus Plan",
+          "itemURL" : "https://apple.box.com/s/nn4rhltsi0p0wukh67zlphcdmm0qr25e",
+          "searchTerms" : [
+            "focus",
+            "pages"
+          ]
+        },
+        {
+          "searchTerms" : [
+            "font",
+            "sf"
+          ],
+          "itemDescription" : "ฟอนต์ SF Hello เป็นฟอนต์ที่พัฒนาโดย Apple เพื่อให้ Apple Professional Learning (APLS) ได้ใช้งาน ซึ่งรองรับทั้งภาษาอาหรับ, ภาษาจีน,  ภาษาญี่ปุ่น,  ภาษาเกาหลี, และภาษาไทย มาพร้อมกับฟอนต์ SF Mono เป็นฟอนต์ที่ Apple ใช้สําหรับการเขียนโค้ด\r",
+          "title" : "SF Hello",
+          "itemURL" : "https://apple.box.com/s/kauks190wacbdsxlhtlp4bxf4gexbvz0",
+          "passwordProtected" : false,
+          "id" : "D8CD102A-4AED-41B4-BB91-A3D692C31F45",
+          "imageName" : "fontIcon",
+          "buttonTitle" : "ได้รับ"
+        },
+        {
+          "buttonTitle" : "ได้รับ",
+          "itemURL" : "https://apple.box.com/s/vmgfrwdy1jqk1o9jhuyxpca8et2w6vxe",
+          "searchTerms" : [
+            "flyer",
+            "pdf"
+          ],
+          "id" : "8ECF841B-060F-4AEA-B351-CE132D88F7C0",
+          "title" : "Flyers",
+          "itemDescription" : "เอกสาร PDF ต่าง ๆ นี้ ได้แสดงให้เห็นภาพรวมของ Apple Professional Learning และประเภทของข้อเสนอที่สามารถมอบให้กับลูกค้า\r",
+          "imageName" : "preview",
+          "passwordProtected" : false
+        },
+        {
+          "buttonTitle" : "ได้รับ",
+          "imageName" : "preview",
+          "passwordProtected" : true,
+          "id" : "45A22903-4C21-416E-885F-DD2521CA4493",
+          "title" : "APLS Signature",
+          "itemDescription" : "ลายเซ็นนี้มีไว้สําหรับใช้โดยผู้เชี่ยวชาญการเรียนรู้ระดับมืออาชีพของ Apple (APLS)  ที่ได้รับอนุมัติ และเฉพาะในปีที่ได้รับอนุญาตเท่านั้น \n- แนวทางเหล่านี้ให้แนวทางในการนำลายเซ็น Apple Professional Learning Specialist ที่สามารถนำไปใช้ได้อย่างถูกต้องในการสื่อสารกับหน่วยงานต่าง ๆ\n\n\n*พนักงาน Apple โปรดปฏิบัติตามแนวทางการระบุตัวตนขององค์กร\r",
+          "itemURL" : "https://apple.box.com/s/l7lomuogqt6smx2kz2ce7zlmh7ve90rb",
+          "searchTerms" : [
+            "signature",
+            "guidelines"
+          ]
+        }
+      ]
+    },
+    {
+      "symbolName" : "person.circle",
+      "items" : [
+        {
+          "itemURL" : "https://apple.box.com/s/25neszogy981i6zh3aepzrpjs0ixiapx",
+          "id" : "1C5F3C20-D026-4E44-BFEA-64D7901FC085",
+          "imageName" : "numbersTemplateIcon",
+          "buttonTitle" : "ได้รับ",
+          "itemDescription" : "Apple Professional Learning (APL) Compass เป็นแหล่งข้อมูลเชิงโต้ตอบที่สามารถช่วยผู้บริหารสถานศึกษา, นักการศึกษา และฝ่าย IT เพื่อประเมินความต้องการของสถานศึกษา เพื่ออกแบบและวางแผน เพื่อกำหนดทิศทางต่อไปในเส้นทางการเรียนรู้อย่างมืออาชีพ \nCompass เป็นไฟล์ Numbers ดังนั้นจึงง่ายต่อการแชร์ให้กับลูกค้า โดยสามารถกรอกรายละเอียดในเอกสารบน Mac หรือ iPad และสามารถแสดงผลลัพธ์แบบเรียลไทม์ \n[เรียนรู้เพิ่มเติมเกี่ยวกับวิธีใช้ APL Compass ›](https://seedsales.apple.com/home/collection/R006184-en_WW)\r",
+          "title" : "APL Compass",
+          "searchTerms" : [
+            "numbers",
+            "compass",
+            "apl"
+          ],
+          "passwordProtected" : false
+        },
+        {
+          "searchTerms" : [
+            "numbers",
+            "elc",
+            "toolkit"
+          ],
+          "imageName" : "numbersTemplateIcon",
+          "passwordProtected" : true,
+          "itemDescription" : "ชุดเครื่องมือผู้เชี่ยวชาญใช้ประโยชน์จากคุณสมบัติและความยืดหยุ่นของ Numbers เพื่อช่วยให้ผู้เชี่ยวชาญจัดการอีเมล, กําหนดการ, และบัญชีรายชื่อได้อย่างมีประสิทธิภาพ และสําหรับแต่ละเซสชันมีแผ่นงานที่เกี่ยวข้องพร้อมบทสรุปของเครื่องมือเซสชัน เพื่อช่วยแนะนําการสนทนา และพื้นที่จดบันทึกอย่างอิสระ\r",
+          "buttonTitle" : "ได้รับ",
+          "title" : "ELC Specialist Toolkit",
+          "itemURL" : "https://apple.box.com/s/a71bnbuqsetl41cna4v87v0yckzey9f0",
+          "id" : "76565DFE-E2F7-4CD3-8956-0D62CFA219DE"
+        },
+        {
+          "itemDescription" : "The Executive Leadership Coaching Journal (สมุดบันทึกการโค้ชของผู้บริหาร) เป็นพื้นที่สำหรับผู้นำองค์กรในการสะท้อนประสบการณ์ และเป็นเอกสารที่ใช้ในการบันทึกเส้นทางการโค้ชของพวกเขา\r",
+          "searchTerms" : [
+            "pages",
+            "leadership",
+            "coaching"
+          ],
+          "itemURL" : "https://apple.box.com/s/e9ilk4m8nh0yoz220gms6zrmhrh0k5jf",
+          "imageName" : "pagesTemplateIcon",
+          "passwordProtected" : true,
+          "buttonTitle" : "ได้รับ",
+          "title" : "Leadership Coaching Journal",
+          "id" : "7F952542-B63D-43A0-9502-979C60D10C88"
+        },
+        {
+          "title" : "DLT Activity Guide",
+          "id" : "C9D57B95-6E4A-4049-A6E0-2C4560328C96",
+          "passwordProtected" : true,
+          "imageName" : "numbersTemplateIcon",
+          "searchTerms" : [
+            "numbers",
+            "dlt",
+            "guide"
+          ],
+          "itemDescription" : "คู่มือกิจกรรม สามารถปรับใช้สําหรับการเรียนรู้และการสอน โดยมีคําแนะนําสําหรับแบบฝึกหัดเพื่อให้ลงมือปฏิบัติจริง และเพื่ออํานวยความสะดวกในการปรับใช้สําหรับเซสชันการเรียนรู้และการสอนของiPad และ Mac\r",
+          "buttonTitle" : "ได้รับ",
+          "itemURL" : "https://apple.box.com/s/gnwl3o36guzapdku2m64bm41lqa4hfos"
+        },
+        {
+          "itemURL" : "https://apple.box.com/s/7qwod7rk05elz4txihpdyozyzvhwv5zd",
+          "passwordProtected" : true,
+          "title" : "Tech Integration Checklist",
+          "itemDescription" : "รายการตรวจสอบการปรับใช้สําหรับการเรียนรู้และการสอนการรวมเทคโนโลยีได้รับการออกแบบมาเพื่อรองรับการรวมเทคโนโลยี Apple ของสถาบัน\nแหล่งข้อมูลนี้แบ่งออกเป็นส่วนต่าง ๆ สำหรับทีมงาน ด้านDeployment Leadership, ด้าน IT, ด้าน Purchasing และ ด้าน Education Technology\r",
+          "imageName" : "numbersTemplateIcon",
+          "id" : "26221985-C752-4CD6-887A-A762AF672E66",
+          "buttonTitle" : "ได้รับ",
+          "searchTerms" : [
+            "numbers",
+            "integration",
+            "checklist"
+          ]
+        },
+        {
+          "id" : "7FECEEB5-0A22-487E-8A32-9F11AED7899B",
+          "buttonTitle" : "เร็วๆ นี้",
+          "searchTerms" : [
+            "survey"
+          ],
+          "itemURL" : "",
+          "passwordProtected" : false,
+          "title" : "Learning Technologies Survey",
+          "itemDescription" : "แบบสำรวจการใช้เทคโนโลยีในการเรียนรู้สามารถให้ข้อมูลเชิงลึกเกี่ยวกับการเรียนรู้ และการใช้เทคโนโลยีในการจัดการเรียนรู้ตามที่ปฏิบัติจริงในโรงเรียน \n\nคุณสามารถเรียนรู้เพิ่มเติมเกี่ยวกับ แบบสำรวจการใช้เทคโนโลยีในการเรียนรู้ ได้ที่ ](https://seedsales-corp.apple.com/home/collection/165106)\r",
+          "imageName" : "preview"
+        }
+      ],
+      "name" : "ถึงโค้ช",
+      "id" : "D0A93CC2-DF03-4E4E-87CC-5186C79C9EA2"
+    },
+    {
+      "items" : [
+        {
+          "title" : "APLS Theme",
+          "itemDescription" : "ใช้ APLS ธีม (แม่แบบ Keynote สำหรับ APLS) ในการสร้างเซสชั่นการฝึกอบรมของคุณเพื่อรักษาความเป็นเอกลักษณ์ของการเรียนรู้ระดับมืออาชีพของแอปเปิ้ล (Apple Professional Learning) โดยธีมนี้ได้รับการออกแบบเพื่อใช้ในการส่งมอบประสบการณ์ที่ดีที่สุดในการฝึกอบรมเชิงปฏิบัติการสำหรับเซสชั่นฝึกอบรมของคุณ \n[เรียนรู้เพิ่มเติมเกี่ยวกับการอำนวยการเรียนรู้ด้วยการใช้ APLS Theme ได้ที่ ›](https://seedsales.apple.com/home/collection/R006046-en_WW\r",
+          "id" : "A704D9E9-B094-4568-9036-573260C0F5D1",
+          "itemURL" : "https://apple.box.com/s/d14e4ggmtg2xafmyvslp9qffeu7oi1vi",
+          "buttonTitle" : "ได้รับ",
+          "passwordProtected" : false,
+          "searchTerms" : [
+            "keynote",
+            "template",
+            "apls"
+          ],
+          "imageName" : "keynoteTemplateIcon"
+        },
+        {
+          "id" : "791DBA99-6C0E-479A-B16D-2032023FBB6B",
+          "passwordProtected" : false,
+          "imageName" : "keynoteTemplateIcon",
+          "itemDescription" : "หลังจากดาวน์โหลดแม่แบบของ APLS เรียบร้อยแล้ว คุณสามารถปรับปรุงเซสชันของคุณตามแม่แบบของ APLS\nโดยการค้นหาตัวอย่างสไลด์ --> แตะไอคอน และอื่นๆ\r",
+          "searchTerms" : [
+            "keynote",
+            "template",
+            "theme",
+            "apps"
+          ],
+          "buttonTitle" : "ได้รับ",
+          "title" : "APLS Theme - Guidelines",
+          "itemURL" : "https://apple.box.com/s/p5y9wdc4gz33c1urcjlqoy86etzefkuk"
+        }
+      ],
+      "name" : "สนับสนุน",
+      "symbolName" : "hands.sparkles",
+      "id" : "E8D1715A-DA6C-4998-925B-5DC8B139618A"
+    },
+    {
+      "id" : "CE880432-8929-4175-A550-C2215C0D0863",
+      "items" : [
+        {
+          "searchTerms" : [
+            "education",
+            "community"
+          ],
+          "title" : "Education Community",
+          "id" : "DC2C776C-649C-49EB-AB42-F0C79FF5EA07",
+          "passwordProtected" : false,
+          "itemDescription" : "เข้าร่วม Apple Education Communication เพื่อรับข่าวสารและการอัปเดตที่สําคัญ  เชื่อมต่อกับเพื่อนร่วมงานเพื่อทํางานร่วมกันในการวางแผนเนื้อหาหรือสำหรับการประชุม เสวนาต่างๆ \r",
+          "buttonTitle" : "ออกตรวจ",
+          "imageName" : "safariIcon",
+          "itemURL" : "https://education-corp.apple.com/en/community/apple-groups/apl-internal"
+        },
+        {
+          "buttonTitle" : "เร็วๆ นี้",
+          "searchTerms" : [
+            "apl",
+            "events"
+          ],
+          "passwordProtected" : false,
+          "title" : "APL Events",
+          "id" : "EBDFBA3A-DE46-48FD-AED4-79044A1384B1",
+          "itemDescription" : "เรียนรู้เพิ่มเติมเกี่ยวกับการอัปเดตล่าสุดของเราเพื่อช่วยให้คุณเติบโตในบทบาทของผู้เชี่ยวชาญ และการสร้างนวัตกรรมที่เป็นประสบการณ์การเรียนรู้ระดับมืออาชีพของ Apple ใหม่ล่าสุดในโลก รวมถึงค้นพบเคล็ดลับ แหล่งข้อมูลที่เป็นประโยชน์ และเรื่องราวที่เป็นแรงบันดาลใจ\r",
+          "imageName" : "aplLabs",
+          "itemURL" : "apple.co/apls-events "
+        },
+        {
+          "itemDescription" : "WWAPL Summit  (Worldwide Apple Professional Learning Summit) เป็นงานประชุมประจำปีระดับโลกของผู้เชี่ยวชาญด้านการเรียนรู้ระดับมืออาชีพของ Apple ซึ่งเป็นที่ของผู้เชี่ยวชาญด้านการเรียนรู้ระดับมืออาชีพของแอปเปิ้ลสามารถเข้าร่วมเซสชั่น และพบปะกับผู้นำด้านการเรียนรู้ระดับมืออาชีพของแอปเปิ้ล\r",
+          "imageName" : "wwaplSummit",
+          "searchTerms" : [
+            "wwapl",
+            "summit"
+          ],
+          "passwordProtected" : false,
+          "id" : "5E5C33B2-DD48-4E95-9E50-D2E6A4D54279",
+          "buttonTitle" : "เร็วๆ นี้",
+          "itemURL" : "",
+          "title" : "WWAPL Summit"
+        }
+      ],
+      "symbolName" : "network",
+      "name" : "เกี่ยวข้อง"
+    },
+    {
+      "items" : [
+        {
+          "searchTerms" : [
+            "pages",
+            "template",
+            "experience",
+            "journal"
+          ],
+          "itemURL" : "https://apple.box.com/s/ea0jyi2rmnnx6adh5jab2k6s2no0ciim",
+          "passwordProtected" : false,
+          "title" : "Experience Journal",
+          "imageName" : "pagesTemplateIcon",
+          "id" : "CB9A376D-24E5-4CF4-9BD7-76FB146DD3C8",
+          "buttonTitle" : "เร็วๆ นี้",
+          "itemDescription" : "(The Experience Journal) สมุดบันทึกประสบการณ์ เป็นการวางแผนงานในการสำรวจ วางแผน และสนับสนุนเส้นทางการเติบโตในอนาคตของพวกคุณในฐานะผู้เชี่ยวชาญด้านการเรียนรู้ระดับมืออาชีพของ Apple\r"
+        },
+        {
+          "buttonTitle" : "ได้รับ",
+          "title" : "Accessibility Assistant - iPad ",
+          "imageName" : "accessibilityIcon",
+          "itemURL" : "https://www.icloud.com/shortcuts/2e96fa7647024da6910f5607b3fe656e",
+          "searchTerms" : [
+            "accessibility",
+            "iPad"
+          ],
+          "id" : "76D0C8F2-C9B6-4BA7-BA1A-274C7EB2AE89",
+          "itemDescription" : "ปุ่มลัดการช่วยเหลือการเข้าถึง (สำหรับ iPad) สร้างการสรุปรวบรวมฟีเจอร์การช่วยเหลือการเข้าถึง และแหล่งข้อมูลด้านการช่วยเหลือการเข้าถึง โดยถามคำถามเกี่ยวกับความต้องการของบุคคล นี่เป็นเว็บคลิปที่จะสามารถเปิดผ่าน Safari และจะติดตั้งให้โดยอัตโนมัติในรูปแบบของแอปพลิเคชั่นปุ่มลัด เมื่อกดเพิ่มแล้ว สามารถเลือกได้ตามความต้องการของผู้ใช้ และสามารถเลือกได้หลายฟีเจอร์ตามความต้องการของผู้ใช้ สิ่งนี้จะสร้างโน้ตที่เชื่อมโยงกับ ลิงก์และแหล่งข้อมูลจาก หน้า Apple Support   \r",
+          "passwordProtected" : false
+        },
+        {
+          "passwordProtected" : false,
+          "title" : "Accessibility Assistant - Mac ",
+          "itemURL" : "https://www.icloud.com/shortcuts/77e1f658e54a4ee18ff6df792274603a",
+          "imageName" : "accessibilityIcon",
+          "buttonTitle" : "ได้รับ",
+          "searchTerms" : [
+            "accessibility",
+            "mac"
+          ],
+          "itemDescription" : "ปุ่มลัดการช่วยเหลือการเข้าถึง  (สำหรับ Mac) สร้างการสรุปรวบรวมฟีเจอร์การช่วยเหลือการเข้าถึง และแหล่งข้อมูลด้านการช่วยเหลือการเข้าถึง โดยถามคำถามเกี่ยวกับความต้องการของบุคคล นี่เป็นเว็บคลิปที่จะสามารถเปิดผ่าน Safari และจะติดตั้งให้โดยอัตโนมัติในรูปแบบของแอปพลิเคชั่นปุ่มลัด เมื่อกดเพิ่มแล้ว สามารถเลือกได้ตามความต้องการของผู้ใช้ และสามารถเลือกได้หลายฟีเจอร์ตามความต้องการของผู้ใช้ สิ่งนี้จะสร้างโน้ตที่เชื่อมโยงกับ ลิงก์และแหล่งข้อมูลจาก หน้า Apple Support\r",
+          "id" : "09BA3807-0865-4E96-B2D0-F83E248DDCAC"
+        },
+        {
+          "searchTerms" : [
+            "seed"
+          ],
+          "passwordProtected" : false,
+          "itemURL" : "https://seedsales-corp.apple.com/home/discover",
+          "title" : "SEED",
+          "itemDescription" : "ค้นหาและสำรวจข่าวสารและแหล่งข้อมูลล่าสุดจากเราเพื่อการเติบโตของคุณบนเส้นทางของผู้เชี่ยวชาญด้านการเรียนรู้ระดับมืออาชีพของแอปเปิ้ล แอปพลิเคชัน Apple Seed จะช่วยคุณเตรียมความพร้อมสำหรับประสบการณ์การเรียนรู้ที่คุณจะจัดขึ้นด้วยข่าวสารล่าสุด เคล็ดลับ เกมส์ และแหล่งข้อมูลที่จะช่วยฝึกคุณ - ในทุกที่และทุกเวลาที่คุณต้องการ \r",
+          "buttonTitle" : "ออกตรวจ",
+          "id" : "C022A650-2B34-4702-B6E1-A3E1B26D570D",
+          "imageName" : "seed"
+        },
+        {
+          "buttonTitle" : "ได้รับ",
+          "itemDescription" : "Growth and Progress Snapshot (GPS) เป็นเครื่องมือการเรียนรู้ที่ได้รับการออกแบบเพื่อช่วยให้คุณสามารถระบุได้ว่าอะไรเป็นคุณลักษณะที่ดี หรือคุณลักษณะที่ดีของการเป็นผู้เชี่ยวชาญด้านการเรียนรู้ระดับมืออาชีพเป็นอย่างไรซึ่งสอดคล้องกับหัวข้อเฉพาะในแต่ละด้าน \n\nใช้เพื่อประเมินความรู้ ทักษะ และพฤติกรรมในปัจจุบันของคุณตามหัวข้อที่สร้างขึ้นเพื่อช่วยให้คุณสามารถส่งมอบประสบการณ์การเรียนรู้ระดับมืออาชีพของ Apple ที่มีประสิทธิภาพสูงได้\r",
+          "itemURL" : "https://apple.box.com/s/krsebhy7u4podmd20ucwdoxvbpctjmwb",
+          "passwordProtected" : false,
+          "searchTerms" : [
+            "growth",
+            "progress",
+            "snapshot"
+          ],
+          "title" : "Growth Progress Snapshot ",
+          "imageName" : "numbersTemplateIcon",
+          "id" : "69E619ED-4E4A-4CCB-8B83-E27A51C62983"
+        },
+        {
+          "itemDescription" : "คู่มือสนับสนุนข้อตกลงผู้ให้บริการฝึกอบรมของ Apple โดยให้ข้อมูล อธิบายความคาดหวังและข้อกําหนดของบทบาทของผู้เชี่ยวชาญ คุณจะพบข้อมูลเกี่ยวกับข้อเสนอการสนับสนุนการเรียนรู้ระดับมืออาชีพของ Apple, ความคาดหวัง, โอกาสในการเติบโตและการพัฒนา ตลอดจนวิธีสร้างตัวตนของคุณในฐานะผู้เชี่ยวชาญ",
+          "buttonTitle" : "ได้รับ",
+          "imageName" : "preview",
+          "itemURL" : "https://apple.box.com/s/ziuovdgvb5w5ollxo79zr589d5rfvc89",
+          "passwordProtected" : false,
+          "searchTerms" : [
+            "handbook"
+          ],
+          "title" : "Handbook",
+          "id" : "656A76B9-B1B3-4D53-B55D-A3806423A309"
+        }
+      ],
+      "symbolName" : "leaf",
+      "id" : "81F0EC34-4D9F-42F5-98CC-99877AED36A6",
+      "name" : "ขยาย"
+    },
+    {
+      "symbolName" : "hand.point.up.left",
+      "items" : [
+        {
+          "passwordProtected" : false,
+          "id" : "863023BD-514D-45D8-908A-C9F521850E66",
+          "itemURL" : "https://www.apple.com",
+          "searchTerms" : [
+            "utilities"
+          ],
+          "buttonTitle" : "Get",
+          "title" : "Test",
+          "itemDescription" : "",
+          "imageName" : "person"
+        }
+      ],
+      "name" : "Assist",
+      "id" : "016370C2-B3C2-487D-996C-6788E402DE5A"
+    }
+  ],
+  "id" : "7B21CCDB-46DB-419E-B099-69A903C2C35F"
+}
