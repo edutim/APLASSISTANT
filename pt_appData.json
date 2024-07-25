@@ -321,21 +321,6 @@
             "template",
             "apls"
           ]
-        },
-        {
-          "itemURL" : "https://apple.box.com/s/p5y9wdc4gz33c1urcjlqoy86etzefkuk",
-          "buttonTitle" : "Obtenha",
-          "searchTerms" : [
-            "keynote",
-            "template",
-            "theme",
-            "apps"
-          ],
-          "id" : "C03C7EDE-5059-4B76-B22E-EB5959BCEA4D",
-          "title" : "Template APLS - Guidelines",
-          "passwordProtected" : false,
-          "itemDescription" : "Depois de baixar o Template APLS, aprimore suas sessões com as Guidelines do Template APLS: encontre exemplos de slides, ícones, e muito mais.\r",
-          "imageName" : "keynoteTemplateIcon"
         }
       ]
     },
