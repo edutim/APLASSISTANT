@@ -315,21 +315,6 @@
           ],
           "id" : "69EE20C3-3412-4E9F-845B-FB487BE01F0B",
           "passwordProtected" : false
-        },
-        {
-          "itemURL" : "https://apple.box.com/s/p5y9wdc4gz33c1urcjlqoy86etzefkuk",
-          "imageName" : "keynoteTemplateIcon",
-          "passwordProtected" : false,
-          "title" : "APLS Theme - Guidelines",
-          "searchTerms" : [
-            "keynote",
-            "template",
-            "theme",
-            "apps"
-          ],
-          "itemDescription" : "Sau khi tải xuống Chủ đề APLS, tăng cường các phiên trải nghiệm của bạn với Hướng dẫn Chủ đề APLS: tìm các trang trình bày mẫu, biểu tượng, và hơn thế nữa.\r",
-          "buttonTitle" : "Tải về",
-          "id" : "48C11541-23C5-48D0-BCCD-17A3BDD4301A"
         }
       ],
       "symbolName" : "hands.sparkles",
