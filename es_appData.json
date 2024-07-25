@@ -317,21 +317,6 @@
           "imageName" : "keynoteTemplateIcon",
           "title" : "Plantilla APLS ",
           "itemURL" : "https://apple.box.com/s/d14e4ggmtg2xafmyvslp9qffeu7oi1vi"
-        },
-        {
-          "searchTerms" : [
-            "keynote",
-            "plantilla",
-            "theme",
-            "apps"
-          ],
-          "itemDescription" : "Después de descargar el tema APLS,, mejore sus sesiones con las directrices del tema APLS: encuentre diapositivas de muestra, iconos, y más.\r",
-          "itemURL" : "https://apple.box.com/s/p5y9wdc4gz33c1urcjlqoy86etzefkuk",
-          "imageName" : "keynoteTemplateIcon",
-          "passwordProtected" : false,
-          "id" : "608D8257-78CB-4789-9A7B-ACB9D360EA92",
-          "title" : "Plantilla APLS - Guías",
-          "buttonTitle" : "Obtener"
         }
       ],
       "id" : "DC5488F2-23BA-49C7-9B49-C734B38A8DD1",
