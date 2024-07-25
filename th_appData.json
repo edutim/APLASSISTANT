@@ -313,21 +313,6 @@
             "apls"
           ],
           "imageName" : "keynoteTemplateIcon"
-        },
-        {
-          "id" : "791DBA99-6C0E-479A-B16D-2032023FBB6B",
-          "passwordProtected" : false,
-          "imageName" : "keynoteTemplateIcon",
-          "itemDescription" : "หลังจากดาวน์โหลดแม่แบบของ APLS เรียบร้อยแล้ว คุณสามารถปรับปรุงเซสชันของคุณตามแม่แบบของ APLS\nโดยการค้นหาตัวอย่างสไลด์ --> แตะไอคอน และอื่นๆ\r",
-          "searchTerms" : [
-            "keynote",
-            "template",
-            "theme",
-            "apps"
-          ],
-          "buttonTitle" : "ได้รับ",
-          "title" : "APLS Theme - Guidelines",
-          "itemURL" : "https://apple.box.com/s/p5y9wdc4gz33c1urcjlqoy86etzefkuk"
         }
       ],
       "name" : "สนับสนุน",
