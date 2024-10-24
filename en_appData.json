@@ -47,7 +47,7 @@
         },
         {
           "imageName" : "seed",
-          "itemURL" : "https://seedsales-corp.apple.com/home/discover",
+          "itemURL" : "http://seedsales.apple.com",
           "id" : "A7CE0368-9B20-4DC5-8ED3-93B60A0BA1A0",
           "buttonTitle" : "Visit",
           "title" : "SEED",
@@ -495,7 +495,7 @@
           "searchTerms" : [
             "seed"
           ],
-          "itemURL" : "https://seedsales-corp.apple.com/home/discover"
+          "itemURL" : "http://seedsales.apple.com"
         },
         {
           "id" : "D1182956-737D-4B58-85D6-FC9A4836BE9B",
